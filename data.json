@@ -1,0 +1,8322 @@
+{
+ "flashcards": [
+  {
+   "id": 1,
+   "category": "Verbs",
+   "target": "ser",
+   "english": "to be",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 2,
+   "category": "Verbs",
+   "target": "estar",
+   "english": "to be (state)",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 3,
+   "category": "Verbs",
+   "target": "ter",
+   "english": "to have",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 4,
+   "category": "Verbs",
+   "target": "ir",
+   "english": "to go",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 5,
+   "category": "Verbs",
+   "target": "vir",
+   "english": "to come",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 6,
+   "category": "Verbs",
+   "target": "fazer",
+   "english": "to make",
+   "altEnglish": [
+    "to do"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 7,
+   "category": "Verbs",
+   "target": "poder",
+   "english": "to be able to",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 8,
+   "category": "Verbs",
+   "target": "querer",
+   "english": "to want",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 9,
+   "category": "Verbs",
+   "target": "dever",
+   "english": "to have to",
+   "altEnglish": [
+    "should"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 10,
+   "category": "Verbs",
+   "target": "saber",
+   "english": "to know",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 11,
+   "category": "Verbs",
+   "target": "conhecer",
+   "english": "to know (a person)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 12,
+   "category": "Verbs",
+   "target": "ver",
+   "english": "to see",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 13,
+   "category": "Verbs",
+   "target": "ouvir",
+   "english": "to hear",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 14,
+   "category": "Verbs",
+   "target": "ler",
+   "english": "to read",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 15,
+   "category": "Verbs",
+   "target": "escrever",
+   "english": "to write",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 16,
+   "category": "Verbs",
+   "target": "falar",
+   "english": "to speak",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 17,
+   "category": "Verbs",
+   "target": "compreender",
+   "english": "to understand",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 18,
+   "category": "Verbs",
+   "target": "pensar",
+   "english": "to think",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 19,
+   "category": "Verbs",
+   "target": "achar",
+   "english": "to think",
+   "altEnglish": [
+    "to find"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 20,
+   "category": "Verbs",
+   "target": "acreditar",
+   "english": "to believe",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 21,
+   "category": "Verbs",
+   "target": "perguntar",
+   "english": "to ask",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 22,
+   "category": "Verbs",
+   "target": "responder",
+   "english": "to answer",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 23,
+   "category": "Verbs",
+   "target": "dar",
+   "english": "to give",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 24,
+   "category": "Verbs",
+   "target": "pedir",
+   "english": "to ask for",
+   "altEnglish": [
+    "to request"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 25,
+   "category": "Verbs",
+   "target": "levar",
+   "english": "to take",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 26,
+   "category": "Verbs",
+   "target": "trazer",
+   "english": "to bring",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 27,
+   "category": "Verbs",
+   "target": "pôr",
+   "english": "to put",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 28,
+   "category": "Verbs",
+   "target": "tirar",
+   "english": "to take off",
+   "altEnglish": [
+    "to remove"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 29,
+   "category": "Verbs",
+   "target": "pegar",
+   "english": "to pick up",
+   "altEnglish": [
+    "to grab"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 30,
+   "category": "Verbs",
+   "target": "comprar",
+   "english": "to buy",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 31,
+   "category": "Verbs",
+   "target": "pagar",
+   "english": "to pay",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 32,
+   "category": "Verbs",
+   "target": "custar",
+   "english": "to cost",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 33,
+   "category": "Verbs",
+   "target": "precisar",
+   "english": "to need",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 34,
+   "category": "Verbs",
+   "target": "procurar",
+   "english": "to look for",
+   "altEnglish": [
+    "to search"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 35,
+   "category": "Verbs",
+   "target": "encontrar",
+   "english": "to find",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 36,
+   "category": "Verbs",
+   "target": "esperar",
+   "english": "to wait",
+   "altEnglish": [
+    "to hope"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 37,
+   "category": "Verbs",
+   "target": "trabalhar",
+   "english": "to work",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 38,
+   "category": "Verbs",
+   "target": "estudar",
+   "english": "to study",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 39,
+   "category": "Verbs",
+   "target": "aprender",
+   "english": "to learn",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 40,
+   "category": "Verbs",
+   "target": "jogar",
+   "english": "to play",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 41,
+   "category": "Verbs",
+   "target": "comer",
+   "english": "to eat",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 42,
+   "category": "Verbs",
+   "target": "beber",
+   "english": "to drink",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 43,
+   "category": "Verbs",
+   "target": "cozinhar",
+   "english": "to cook",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 44,
+   "category": "Verbs",
+   "target": "assar",
+   "english": "to bake",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 45,
+   "category": "Verbs",
+   "target": "dormir",
+   "english": "to sleep",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 46,
+   "category": "Verbs",
+   "target": "acordar",
+   "english": "to wake up",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 47,
+   "category": "Verbs",
+   "target": "levantar-se",
+   "english": "to get up",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 48,
+   "category": "Verbs",
+   "target": "lavar-se",
+   "english": "to wash oneself",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 49,
+   "category": "Verbs",
+   "target": "lavar",
+   "english": "to wash",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 50,
+   "category": "Verbs",
+   "target": "vestir-se",
+   "english": "to get dressed",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 51,
+   "category": "Verbs",
+   "target": "despir-se",
+   "english": "to get undressed",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 52,
+   "category": "Verbs",
+   "target": "vestir",
+   "english": "to wear",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 53,
+   "category": "Verbs",
+   "target": "usar",
+   "english": "to use",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 54,
+   "category": "Verbs",
+   "target": "pendurar",
+   "english": "to hang",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 55,
+   "category": "Verbs",
+   "target": "deitar-se",
+   "english": "to lie down",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 56,
+   "category": "Verbs",
+   "target": "sentar-se",
+   "english": "to sit down",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 57,
+   "category": "Verbs",
+   "target": "parar",
+   "english": "to stop",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 58,
+   "category": "Verbs",
+   "target": "levantar",
+   "english": "to lift",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 59,
+   "category": "Verbs",
+   "target": "ficar",
+   "english": "to stay",
+   "altEnglish": [
+    "to become"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 60,
+   "category": "Verbs",
+   "target": "viver",
+   "english": "to live",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 61,
+   "category": "Verbs",
+   "target": "morar",
+   "english": "to live (reside)",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 62,
+   "category": "Verbs",
+   "target": "começar",
+   "english": "to begin",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 63,
+   "category": "Verbs",
+   "target": "acabar",
+   "english": "to finish",
+   "altEnglish": [
+    "to end"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 64,
+   "category": "Verbs",
+   "target": "abrir",
+   "english": "to open",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 65,
+   "category": "Verbs",
+   "target": "fechar",
+   "english": "to close",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 66,
+   "category": "Verbs",
+   "target": "ajudar",
+   "english": "to help",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 67,
+   "category": "Verbs",
+   "target": "agradecer",
+   "english": "to thank",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 68,
+   "category": "Verbs",
+   "target": "explicar",
+   "english": "to explain",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 69,
+   "category": "Verbs",
+   "target": "mostrar",
+   "english": "to show",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 70,
+   "category": "Verbs",
+   "target": "receber",
+   "english": "to receive",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 71,
+   "category": "Verbs",
+   "target": "perder",
+   "english": "to lose",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 72,
+   "category": "Verbs",
+   "target": "visitar",
+   "english": "to visit",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 73,
+   "category": "Verbs",
+   "target": "viajar",
+   "english": "to travel",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 74,
+   "category": "Verbs",
+   "target": "conduzir",
+   "english": "to drive",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 75,
+   "category": "Verbs",
+   "target": "chegar",
+   "english": "to arrive",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 76,
+   "category": "Verbs",
+   "target": "partir",
+   "english": "to leave",
+   "altEnglish": [
+    "to depart"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 77,
+   "category": "Verbs",
+   "target": "sair",
+   "english": "to go out",
+   "altEnglish": [
+    "to leave"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 78,
+   "category": "Verbs",
+   "target": "entrar",
+   "english": "to enter",
+   "altEnglish": [
+    "to go in"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 79,
+   "category": "Verbs",
+   "target": "voltar",
+   "english": "to return",
+   "altEnglish": [
+    "to come back"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 80,
+   "category": "Verbs",
+   "target": "andar",
+   "english": "to walk",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 81,
+   "category": "Verbs",
+   "target": "correr",
+   "english": "to run",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 82,
+   "category": "Verbs",
+   "target": "nadar",
+   "english": "to swim",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 83,
+   "category": "Verbs",
+   "target": "voar",
+   "english": "to fly",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 84,
+   "category": "Verbs",
+   "target": "pedalar",
+   "english": "to cycle",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 85,
+   "category": "Verbs",
+   "target": "casar",
+   "english": "to marry",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 86,
+   "category": "Verbs",
+   "target": "treinar",
+   "english": "to train",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 87,
+   "category": "Verbs",
+   "target": "dançar",
+   "english": "to dance",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 88,
+   "category": "Verbs",
+   "target": "cantar",
+   "english": "to sing",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 89,
+   "category": "Verbs",
+   "target": "chover",
+   "english": "to rain",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 90,
+   "category": "Verbs",
+   "target": "nevar",
+   "english": "to snow",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 91,
+   "category": "Verbs",
+   "target": "amar",
+   "english": "to love",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 92,
+   "category": "Verbs",
+   "target": "gostar",
+   "english": "to like",
+   "altEnglish": [
+    "to enjoy"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 93,
+   "category": "Verbs",
+   "target": "adorar",
+   "english": "to adore",
+   "altEnglish": [
+    "to love"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 94,
+   "category": "Verbs",
+   "target": "sorrir",
+   "english": "to smile",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 95,
+   "category": "Verbs",
+   "target": "rir",
+   "english": "to laugh",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 96,
+   "category": "Verbs",
+   "target": "chorar",
+   "english": "to cry",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 97,
+   "category": "Verbs",
+   "target": "esquecer",
+   "english": "to forget",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 98,
+   "category": "Verbs",
+   "target": "planear",
+   "english": "to plan",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 99,
+   "category": "Verbs",
+   "target": "gastar",
+   "english": "to spend",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 100,
+   "category": "Verbs",
+   "target": "poupar",
+   "english": "to save",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 101,
+   "category": "Verbs",
+   "target": "ganhar",
+   "english": "to earn",
+   "altEnglish": [
+    "to win"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 102,
+   "category": "Verbs",
+   "target": "telefonar",
+   "english": "to call",
+   "altEnglish": [
+    "to phone"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 103,
+   "category": "Verbs",
+   "target": "enviar",
+   "english": "to send",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 104,
+   "category": "Verbs",
+   "target": "devolver",
+   "english": "to give back",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 105,
+   "category": "Verbs",
+   "target": "trocar",
+   "english": "to change",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 106,
+   "category": "Verbs",
+   "target": "estacionar",
+   "english": "to park",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 107,
+   "category": "Verbs",
+   "target": "abastecer",
+   "english": "to refuel",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 108,
+   "category": "Verbs",
+   "target": "construir",
+   "english": "to build",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 109,
+   "category": "Verbs",
+   "target": "limpar",
+   "english": "to clean",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 110,
+   "category": "Verbs",
+   "target": "arrumar",
+   "english": "to tidy up",
+   "altEnglish": [
+    "to put away"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 111,
+   "category": "Verbs",
+   "target": "experimentar",
+   "english": "to try on",
+   "altEnglish": [
+    "to try"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 112,
+   "category": "Verbs",
+   "target": "tentar",
+   "english": "to try",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 113,
+   "category": "Verbs",
+   "target": "provar",
+   "english": "to taste",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 114,
+   "category": "Verbs",
+   "target": "sentir",
+   "english": "to feel",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 115,
+   "category": "Verbs",
+   "target": "parecer",
+   "english": "to seem",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 116,
+   "category": "Verbs",
+   "target": "durar",
+   "english": "to last",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 117,
+   "category": "Verbs",
+   "target": "demorar",
+   "english": "to take (time)",
+   "altEnglish": [
+    "to delay"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 118,
+   "category": "Verbs",
+   "target": "dizer",
+   "english": "to say",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 119,
+   "category": "Verbs",
+   "target": "guardar",
+   "english": "to keep",
+   "altEnglish": [
+    "to store"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 120,
+   "category": "Verbs",
+   "target": "desligar",
+   "english": "to switch off",
+   "altEnglish": [
+    "to hang up"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 121,
+   "category": "Verbs",
+   "target": "ligar",
+   "english": "to switch on",
+   "altEnglish": [
+    "to call"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 122,
+   "category": "Verbs",
+   "target": "fumar",
+   "english": "to smoke",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 123,
+   "category": "Verbs",
+   "target": "doer",
+   "english": "to hurt",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 124,
+   "category": "Verbs",
+   "target": "apetecer",
+   "english": "to fancy",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 125,
+   "category": "Verbs",
+   "target": "subir",
+   "english": "to go up",
+   "altEnglish": [
+    "to climb"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 126,
+   "category": "Verbs",
+   "target": "descer",
+   "english": "to go down",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 127,
+   "category": "Verbs",
+   "target": "cair",
+   "english": "to fall",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 128,
+   "category": "Verbs",
+   "target": "saltar",
+   "english": "to jump",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 129,
+   "category": "Verbs",
+   "target": "falhar",
+   "english": "to fail",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 130,
+   "category": "Basics",
+   "target": "eu",
+   "english": "I",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 131,
+   "category": "Basics",
+   "target": "tu",
+   "english": "you (informal)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 132,
+   "category": "Basics",
+   "target": "você",
+   "english": "you",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 133,
+   "category": "Basics",
+   "target": "ele",
+   "english": "he",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 134,
+   "category": "Basics",
+   "target": "ela",
+   "english": "she",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 135,
+   "category": "Basics",
+   "target": "nós",
+   "english": "we",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 136,
+   "category": "Basics",
+   "target": "vocês",
+   "english": "you (plural)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 137,
+   "category": "Basics",
+   "target": "eles",
+   "english": "they",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 138,
+   "category": "Basics",
+   "target": "elas",
+   "english": "they (female)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 139,
+   "category": "Basics",
+   "target": "me",
+   "english": "me",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 140,
+   "category": "Basics",
+   "target": "sim",
+   "english": "yes",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 141,
+   "category": "Basics",
+   "target": "não",
+   "english": "no",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 142,
+   "category": "Basics",
+   "target": "por favor",
+   "english": "please",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 143,
+   "category": "Basics",
+   "target": "olá",
+   "english": "hello",
+   "altEnglish": [
+    "hi"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 144,
+   "category": "Basics",
+   "target": "adeus",
+   "english": "goodbye",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 145,
+   "category": "Basics",
+   "target": "tchau",
+   "english": "bye",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 146,
+   "category": "Basics",
+   "target": "e",
+   "english": "and",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 147,
+   "category": "Basics",
+   "target": "ou",
+   "english": "or",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 148,
+   "category": "Basics",
+   "target": "mas",
+   "english": "but",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 149,
+   "category": "Basics",
+   "target": "porque",
+   "english": "because",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 150,
+   "category": "Basics",
+   "target": "que",
+   "english": "that",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 151,
+   "category": "Basics",
+   "target": "se",
+   "english": "if",
+   "altEnglish": [
+    "whether"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 152,
+   "category": "Basics",
+   "target": "quando",
+   "english": "when",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 153,
+   "category": "Basics",
+   "target": "também",
+   "english": "also",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 154,
+   "category": "Basics",
+   "target": "ainda",
+   "english": "still",
+   "altEnglish": [
+    "yet"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 155,
+   "category": "Basics",
+   "target": "só",
+   "english": "only",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 156,
+   "category": "Basics",
+   "target": "já",
+   "english": "already",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 157,
+   "category": "Basics",
+   "target": "muito",
+   "english": "very",
+   "altEnglish": [
+    "a lot"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 158,
+   "category": "Basics",
+   "target": "mais",
+   "english": "more",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 159,
+   "category": "Basics",
+   "target": "menos",
+   "english": "less",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 160,
+   "category": "Basics",
+   "target": "pouco",
+   "english": "little",
+   "altEnglish": [
+    "few"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 161,
+   "category": "Basics",
+   "target": "nada",
+   "english": "nothing",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 162,
+   "category": "Basics",
+   "target": "tudo",
+   "english": "everything",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 163,
+   "category": "Basics",
+   "target": "algo",
+   "english": "something",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 164,
+   "category": "Basics",
+   "target": "ninguém",
+   "english": "nobody",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 165,
+   "category": "Basics",
+   "target": "sempre",
+   "english": "always",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 166,
+   "category": "Basics",
+   "target": "nunca",
+   "english": "never",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 167,
+   "category": "Basics",
+   "target": "às vezes",
+   "english": "sometimes",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 168,
+   "category": "Basics",
+   "target": "muitas vezes",
+   "english": "often",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 169,
+   "category": "Basics",
+   "target": "agora",
+   "english": "now",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 170,
+   "category": "Basics",
+   "target": "hoje",
+   "english": "today",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 171,
+   "category": "Basics",
+   "target": "amanhã",
+   "english": "tomorrow",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 172,
+   "category": "Basics",
+   "target": "ontem",
+   "english": "yesterday",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 173,
+   "category": "Basics",
+   "target": "aqui",
+   "english": "here",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 174,
+   "category": "Basics",
+   "target": "ali",
+   "english": "there",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 175,
+   "category": "Basics",
+   "target": "lá",
+   "english": "there",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 176,
+   "category": "Basics",
+   "target": "onde",
+   "english": "where",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 177,
+   "category": "Basics",
+   "target": "como",
+   "english": "how",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 178,
+   "category": "Basics",
+   "target": "quem",
+   "english": "who",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 179,
+   "category": "Basics",
+   "target": "para quê",
+   "english": "what for",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 180,
+   "category": "Basics",
+   "target": "com",
+   "english": "with",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 181,
+   "category": "Basics",
+   "target": "sem",
+   "english": "without",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 182,
+   "category": "Basics",
+   "target": "para",
+   "english": "for",
+   "altEnglish": [
+    "to"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 183,
+   "category": "Basics",
+   "target": "de",
+   "english": "of",
+   "altEnglish": [
+    "from"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 184,
+   "category": "Basics",
+   "target": "em",
+   "english": "in",
+   "altEnglish": [
+    "on"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 185,
+   "category": "Basics",
+   "target": "por",
+   "english": "by",
+   "altEnglish": [
+    "through"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 186,
+   "category": "Basics",
+   "target": "até",
+   "english": "until",
+   "altEnglish": [
+    "up to"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 187,
+   "category": "Basics",
+   "target": "entre",
+   "english": "between",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 188,
+   "category": "Basics",
+   "target": "sobre",
+   "english": "about",
+   "altEnglish": [
+    "on"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 189,
+   "category": "Basics",
+   "target": "sob",
+   "english": "under",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 190,
+   "category": "Basics",
+   "target": "atrás de",
+   "english": "behind",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 191,
+   "category": "Basics",
+   "target": "perto de",
+   "english": "near",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 192,
+   "category": "Basics",
+   "target": "longe",
+   "english": "far",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 193,
+   "category": "Basics",
+   "target": "depois",
+   "english": "afterwards",
+   "altEnglish": [
+    "after"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 194,
+   "category": "Basics",
+   "target": "antes",
+   "english": "before",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 195,
+   "category": "Basics",
+   "target": "logo",
+   "english": "soon",
+   "altEnglish": [
+    "right away"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 196,
+   "category": "Basics",
+   "target": "pronto",
+   "english": "ready",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 197,
+   "category": "Basics",
+   "target": "bem",
+   "english": "well",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 198,
+   "category": "Basics",
+   "target": "mal",
+   "english": "badly",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 199,
+   "category": "Basics",
+   "target": "talvez",
+   "english": "maybe",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 200,
+   "category": "Basics",
+   "target": "realmente",
+   "english": "really",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 201,
+   "category": "Basics",
+   "target": "naturalmente",
+   "english": "of course",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 202,
+   "category": "Basics",
+   "target": "infelizmente",
+   "english": "unfortunately",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 203,
+   "category": "Basics",
+   "target": "então",
+   "english": "so",
+   "altEnglish": [
+    "then"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 204,
+   "category": "Basics",
+   "target": "portanto",
+   "english": "therefore",
+   "altEnglish": [
+    "so"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 205,
+   "category": "Basics",
+   "target": "primeiro",
+   "english": "first",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 206,
+   "category": "Basics",
+   "target": "juntos",
+   "english": "together",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 207,
+   "category": "Basics",
+   "target": "sozinho",
+   "english": "alone",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 208,
+   "category": "Basics",
+   "target": "ambos",
+   "english": "both",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 209,
+   "category": "Basics",
+   "target": "cada",
+   "english": "each",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 210,
+   "category": "Basics",
+   "target": "todos",
+   "english": "everyone",
+   "altEnglish": [
+    "all"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 211,
+   "category": "Basics",
+   "target": "qualquer",
+   "english": "any",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 212,
+   "category": "Basics",
+   "target": "bastante",
+   "english": "quite",
+   "altEnglish": [
+    "enough"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 213,
+   "category": "Basics",
+   "target": "cedo",
+   "english": "early",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 214,
+   "category": "Basics",
+   "target": "tarde",
+   "english": "late",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 215,
+   "category": "Basics",
+   "target": "de novo",
+   "english": "again",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 216,
+   "category": "Numbers",
+   "target": "zero",
+   "english": "zero",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 217,
+   "category": "Numbers",
+   "target": "um",
+   "english": "one",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 218,
+   "category": "Numbers",
+   "target": "dois",
+   "english": "two",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 219,
+   "category": "Numbers",
+   "target": "três",
+   "english": "three",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 220,
+   "category": "Numbers",
+   "target": "quatro",
+   "english": "four",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 221,
+   "category": "Numbers",
+   "target": "cinco",
+   "english": "five",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 222,
+   "category": "Numbers",
+   "target": "seis",
+   "english": "six",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 223,
+   "category": "Numbers",
+   "target": "sete",
+   "english": "seven",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 224,
+   "category": "Numbers",
+   "target": "oito",
+   "english": "eight",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 225,
+   "category": "Numbers",
+   "target": "nove",
+   "english": "nine",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 226,
+   "category": "Numbers",
+   "target": "dez",
+   "english": "ten",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 227,
+   "category": "Numbers",
+   "target": "onze",
+   "english": "eleven",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 228,
+   "category": "Numbers",
+   "target": "doze",
+   "english": "twelve",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 229,
+   "category": "Numbers",
+   "target": "vinte",
+   "english": "twenty",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 230,
+   "category": "Numbers",
+   "target": "trinta",
+   "english": "thirty",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 231,
+   "category": "Numbers",
+   "target": "quarenta",
+   "english": "forty",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 232,
+   "category": "Numbers",
+   "target": "cinquenta",
+   "english": "fifty",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 233,
+   "category": "Numbers",
+   "target": "cem",
+   "english": "hundred",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 234,
+   "category": "Numbers",
+   "target": "mil",
+   "english": "thousand",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 235,
+   "category": "Numbers",
+   "target": "a metade",
+   "english": "half",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 236,
+   "category": "Time & Calendar",
+   "target": "o dia",
+   "english": "day",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 237,
+   "category": "Time & Calendar",
+   "target": "a semana",
+   "english": "week",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 238,
+   "category": "Time & Calendar",
+   "target": "o mês",
+   "english": "month",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 239,
+   "category": "Time & Calendar",
+   "target": "o ano",
+   "english": "year",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 240,
+   "category": "Time & Calendar",
+   "target": "a vez",
+   "english": "time (occasion)",
+   "altEnglish": [
+    "turn"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 241,
+   "category": "Time & Calendar",
+   "target": "a hora",
+   "english": "hour",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 242,
+   "category": "Time & Calendar",
+   "target": "o minuto",
+   "english": "minute",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 243,
+   "category": "Time & Calendar",
+   "target": "o relógio",
+   "english": "clock",
+   "altEnglish": [
+    "watch"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 244,
+   "category": "Time & Calendar",
+   "target": "a manhã",
+   "english": "morning",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 245,
+   "category": "Time & Calendar",
+   "target": "a tarde",
+   "english": "afternoon",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 246,
+   "category": "Time & Calendar",
+   "target": "a noite",
+   "english": "night",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 247,
+   "category": "Time & Calendar",
+   "target": "o fim de semana",
+   "english": "weekend",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 248,
+   "category": "Time & Calendar",
+   "target": "a segunda-feira",
+   "english": "Monday",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 249,
+   "category": "Time & Calendar",
+   "target": "a terça-feira",
+   "english": "Tuesday",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 250,
+   "category": "Time & Calendar",
+   "target": "a quarta-feira",
+   "english": "Wednesday",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 251,
+   "category": "Time & Calendar",
+   "target": "a quinta-feira",
+   "english": "Thursday",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 252,
+   "category": "Time & Calendar",
+   "target": "a sexta-feira",
+   "english": "Friday",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 253,
+   "category": "Time & Calendar",
+   "target": "o sábado",
+   "english": "Saturday",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 254,
+   "category": "Time & Calendar",
+   "target": "o domingo",
+   "english": "Sunday",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 255,
+   "category": "Time & Calendar",
+   "target": "janeiro",
+   "english": "January",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 256,
+   "category": "Time & Calendar",
+   "target": "fevereiro",
+   "english": "February",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 257,
+   "category": "Time & Calendar",
+   "target": "março",
+   "english": "March",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 258,
+   "category": "Time & Calendar",
+   "target": "abril",
+   "english": "April",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 259,
+   "category": "Time & Calendar",
+   "target": "maio",
+   "english": "May",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 260,
+   "category": "Time & Calendar",
+   "target": "junho",
+   "english": "June",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 261,
+   "category": "Time & Calendar",
+   "target": "julho",
+   "english": "July",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 262,
+   "category": "Time & Calendar",
+   "target": "agosto",
+   "english": "August",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 263,
+   "category": "Time & Calendar",
+   "target": "setembro",
+   "english": "September",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 264,
+   "category": "Time & Calendar",
+   "target": "outubro",
+   "english": "October",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 265,
+   "category": "Time & Calendar",
+   "target": "novembro",
+   "english": "November",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 266,
+   "category": "Time & Calendar",
+   "target": "dezembro",
+   "english": "December",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 267,
+   "category": "Time & Calendar",
+   "target": "a data",
+   "english": "date",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 268,
+   "category": "Time & Calendar",
+   "target": "o calendário",
+   "english": "calendar",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 269,
+   "category": "Time & Calendar",
+   "target": "o feriado",
+   "english": "public holiday",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 270,
+   "category": "Time & Calendar",
+   "target": "o passado",
+   "english": "past",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 271,
+   "category": "Time & Calendar",
+   "target": "o futuro",
+   "english": "future",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 272,
+   "category": "Time & Calendar",
+   "target": "o momento",
+   "english": "moment",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 273,
+   "category": "Time & Calendar",
+   "target": "a época",
+   "english": "period",
+   "altEnglish": [
+    "era"
+   ],
+   "difficulty": 3
+  },
+  {
+   "id": 274,
+   "category": "Weather & Nature",
+   "target": "o tempo",
+   "english": "weather",
+   "altEnglish": [
+    "time"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 275,
+   "category": "Weather & Nature",
+   "target": "o sol",
+   "english": "sun",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 276,
+   "category": "Weather & Nature",
+   "target": "a chuva",
+   "english": "rain",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 277,
+   "category": "Weather & Nature",
+   "target": "a neve",
+   "english": "snow",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 278,
+   "category": "Weather & Nature",
+   "target": "o vento",
+   "english": "wind",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 279,
+   "category": "Weather & Nature",
+   "target": "a nuvem",
+   "english": "cloud",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 280,
+   "category": "Weather & Nature",
+   "target": "o nevoeiro",
+   "english": "fog",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 281,
+   "category": "Weather & Nature",
+   "target": "a temperatura",
+   "english": "temperature",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 282,
+   "category": "Weather & Nature",
+   "target": "a geada",
+   "english": "frost",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 283,
+   "category": "Weather & Nature",
+   "target": "o calor",
+   "english": "heat",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 284,
+   "category": "Weather & Nature",
+   "target": "o frio",
+   "english": "cold",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 285,
+   "category": "Weather & Nature",
+   "target": "a trovoada",
+   "english": "thunderstorm",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 286,
+   "category": "Weather & Nature",
+   "target": "a tempestade",
+   "english": "storm",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 287,
+   "category": "Weather & Nature",
+   "target": "a lua",
+   "english": "moon",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 288,
+   "category": "Weather & Nature",
+   "target": "a estrela",
+   "english": "star",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 289,
+   "category": "Weather & Nature",
+   "target": "o céu",
+   "english": "sky",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 290,
+   "category": "Weather & Nature",
+   "target": "a terra",
+   "english": "earth",
+   "altEnglish": [
+    "ground"
+   ],
+   "difficulty": 3
+  },
+  {
+   "id": 291,
+   "category": "Weather & Nature",
+   "target": "a flor",
+   "english": "flower",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 292,
+   "category": "Weather & Nature",
+   "target": "a planta",
+   "english": "plant",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 293,
+   "category": "Weather & Nature",
+   "target": "a erva",
+   "english": "grass",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 294,
+   "category": "Weather & Nature",
+   "target": "a natureza",
+   "english": "nature",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 295,
+   "category": "Weather & Nature",
+   "target": "a floresta",
+   "english": "forest",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 296,
+   "category": "Weather & Nature",
+   "target": "o lago",
+   "english": "lake",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 297,
+   "category": "Weather & Nature",
+   "target": "o rio",
+   "english": "river",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 298,
+   "category": "Weather & Nature",
+   "target": "a montanha",
+   "english": "mountain",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 299,
+   "category": "Weather & Nature",
+   "target": "o mar",
+   "english": "sea",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 300,
+   "category": "Weather & Nature",
+   "target": "a praia",
+   "english": "beach",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 301,
+   "category": "Weather & Nature",
+   "target": "a ilha",
+   "english": "island",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 302,
+   "category": "Weather & Nature",
+   "target": "o fogo",
+   "english": "fire",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 303,
+   "category": "Weather & Nature",
+   "target": "a pedra",
+   "english": "stone",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 304,
+   "category": "Weather & Nature",
+   "target": "o ar",
+   "english": "air",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 305,
+   "category": "Weather & Nature",
+   "target": "a árvore",
+   "english": "tree",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 306,
+   "category": "Weather & Nature",
+   "target": "o campo",
+   "english": "countryside",
+   "altEnglish": [
+    "field"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 307,
+   "category": "Weather & Nature",
+   "target": "a onda",
+   "english": "wave",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 308,
+   "category": "Weather & Nature",
+   "target": "o vulcão",
+   "english": "volcano",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 309,
+   "category": "Weather & Nature",
+   "target": "a areia",
+   "english": "sand",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 310,
+   "category": "Family & People",
+   "target": "a família",
+   "english": "family",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 311,
+   "category": "Family & People",
+   "target": "a mãe",
+   "english": "mother",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 312,
+   "category": "Family & People",
+   "target": "o pai",
+   "english": "father",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 313,
+   "category": "Family & People",
+   "target": "pais",
+   "english": "parents",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 314,
+   "category": "Family & People",
+   "target": "o filho",
+   "english": "son",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 315,
+   "category": "Family & People",
+   "target": "a filha",
+   "english": "daughter",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 316,
+   "category": "Family & People",
+   "target": "o irmão",
+   "english": "brother",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 317,
+   "category": "Family & People",
+   "target": "a irmã",
+   "english": "sister",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 318,
+   "category": "Family & People",
+   "target": "o tio",
+   "english": "uncle",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 319,
+   "category": "Family & People",
+   "target": "a tia",
+   "english": "aunt",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 320,
+   "category": "Family & People",
+   "target": "o avô",
+   "english": "grandfather",
+   "altEnglish": [
+    "grandpa"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 321,
+   "category": "Family & People",
+   "target": "a avó",
+   "english": "grandmother",
+   "altEnglish": [
+    "grandma"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 322,
+   "category": "Family & People",
+   "target": "o primo",
+   "english": "cousin (male)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 323,
+   "category": "Family & People",
+   "target": "a prima",
+   "english": "cousin (female)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 324,
+   "category": "Family & People",
+   "target": "o sobrinho",
+   "english": "nephew",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 325,
+   "category": "Family & People",
+   "target": "a sobrinha",
+   "english": "niece",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 326,
+   "category": "Family & People",
+   "target": "o neto",
+   "english": "grandson",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 327,
+   "category": "Family & People",
+   "target": "a neta",
+   "english": "granddaughter",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 328,
+   "category": "Family & People",
+   "target": "o marido",
+   "english": "husband",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 329,
+   "category": "Family & People",
+   "target": "a mulher",
+   "english": "woman",
+   "altEnglish": [
+    "wife"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 330,
+   "category": "Family & People",
+   "target": "o homem",
+   "english": "man",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 331,
+   "category": "Family & People",
+   "target": "o rapaz",
+   "english": "boy",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 332,
+   "category": "Family & People",
+   "target": "a rapariga",
+   "english": "girl",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 333,
+   "category": "Family & People",
+   "target": "o namorado",
+   "english": "boyfriend",
+   "altEnglish": [
+    "partner"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 334,
+   "category": "Family & People",
+   "target": "a namorada",
+   "english": "girlfriend",
+   "altEnglish": [
+    "partner"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 335,
+   "category": "Family & People",
+   "target": "o amigo",
+   "english": "friend (male)",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 336,
+   "category": "Family & People",
+   "target": "a amiga",
+   "english": "friend (female)",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 337,
+   "category": "Family & People",
+   "target": "o parceiro",
+   "english": "partner (male)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 338,
+   "category": "Family & People",
+   "target": "a parceira",
+   "english": "partner (female)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 339,
+   "category": "Family & People",
+   "target": "a pessoa",
+   "english": "person",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 340,
+   "category": "Family & People",
+   "target": "o ser humano",
+   "english": "human being",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 341,
+   "category": "Family & People",
+   "target": "o senhor",
+   "english": "Mr.",
+   "altEnglish": [
+    "gentleman"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 342,
+   "category": "Family & People",
+   "target": "a senhora",
+   "english": "Mrs.",
+   "altEnglish": [
+    "lady"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 343,
+   "category": "Family & People",
+   "target": "o vizinho",
+   "english": "neighbour (male)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 344,
+   "category": "Family & People",
+   "target": "a vizinha",
+   "english": "neighbour (female)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 345,
+   "category": "Family & People",
+   "target": "o colega",
+   "english": "colleague (male)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 346,
+   "category": "Family & People",
+   "target": "a colega",
+   "english": "colleague (female)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 347,
+   "category": "Family & People",
+   "target": "o chefe",
+   "english": "boss (male)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 348,
+   "category": "Family & People",
+   "target": "a chefe",
+   "english": "boss (female)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 349,
+   "category": "Family & People",
+   "target": "o professor",
+   "english": "teacher (male)",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 350,
+   "category": "Family & People",
+   "target": "a professora",
+   "english": "teacher (female)",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 351,
+   "category": "Family & People",
+   "target": "o aluno",
+   "english": "pupil (male)",
+   "altEnglish": [
+    "student"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 352,
+   "category": "Family & People",
+   "target": "a aluna",
+   "english": "pupil (female)",
+   "altEnglish": [
+    "student"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 353,
+   "category": "Family & People",
+   "target": "o estudante",
+   "english": "student (male)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 354,
+   "category": "Family & People",
+   "target": "a estudante",
+   "english": "student (female)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 355,
+   "category": "Family & People",
+   "target": "o médico",
+   "english": "doctor (male)",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 356,
+   "category": "Family & People",
+   "target": "a médica",
+   "english": "doctor (female)",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 357,
+   "category": "Family & People",
+   "target": "o empregado",
+   "english": "employee (male)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 358,
+   "category": "Family & People",
+   "target": "a empregada",
+   "english": "employee (female)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 359,
+   "category": "Family & People",
+   "target": "o vendedor",
+   "english": "salesperson (male)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 360,
+   "category": "Family & People",
+   "target": "a vendedora",
+   "english": "salesperson (female)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 361,
+   "category": "Family & People",
+   "target": "o empregado de mesa",
+   "english": "waiter",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 362,
+   "category": "Family & People",
+   "target": "a empregada de mesa",
+   "english": "waitress",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 363,
+   "category": "Family & People",
+   "target": "o polícia",
+   "english": "police officer (male)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 364,
+   "category": "Family & People",
+   "target": "a polícia",
+   "english": "police officer (female)",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 365,
+   "category": "Family & People",
+   "target": "o condutor",
+   "english": "driver (male)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 366,
+   "category": "Family & People",
+   "target": "a condutora",
+   "english": "driver (female)",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 367,
+   "category": "Family & People",
+   "target": "o cliente",
+   "english": "customer (male)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 368,
+   "category": "Family & People",
+   "target": "a cliente",
+   "english": "customer (female)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 369,
+   "category": "Family & People",
+   "target": "o nome",
+   "english": "name",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 370,
+   "category": "Family & People",
+   "target": "as pessoas",
+   "english": "people",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 371,
+   "category": "Family & People",
+   "target": "o aniversário",
+   "english": "birthday",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 372,
+   "category": "Family & People",
+   "target": "o apelido",
+   "english": "surname",
+   "altEnglish": [
+    "last name"
+   ],
+   "difficulty": 3
+  },
+  {
+   "id": 373,
+   "category": "Family & People",
+   "target": "o nome próprio",
+   "english": "first name",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 374,
+   "category": "Family & People",
+   "target": "o bebé",
+   "english": "baby",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 375,
+   "category": "Family & People",
+   "target": "a criança",
+   "english": "child",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 376,
+   "category": "Family & People",
+   "target": "o adulto",
+   "english": "adult",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 377,
+   "category": "Family & People",
+   "target": "a idade",
+   "english": "age",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 378,
+   "category": "Body & Health",
+   "target": "a cabeça",
+   "english": "head",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 379,
+   "category": "Body & Health",
+   "target": "o olho",
+   "english": "eye",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 380,
+   "category": "Body & Health",
+   "target": "a orelha",
+   "english": "ear",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 381,
+   "category": "Body & Health",
+   "target": "o nariz",
+   "english": "nose",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 382,
+   "category": "Body & Health",
+   "target": "a boca",
+   "english": "mouth",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 383,
+   "category": "Body & Health",
+   "target": "o pescoço",
+   "english": "neck",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 384,
+   "category": "Body & Health",
+   "target": "o dente",
+   "english": "tooth",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 385,
+   "category": "Body & Health",
+   "target": "a mão",
+   "english": "hand",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 386,
+   "category": "Body & Health",
+   "target": "o dedo",
+   "english": "finger",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 387,
+   "category": "Body & Health",
+   "target": "o braço",
+   "english": "arm",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 388,
+   "category": "Body & Health",
+   "target": "a perna",
+   "english": "leg",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 389,
+   "category": "Body & Health",
+   "target": "o pé",
+   "english": "foot",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 390,
+   "category": "Body & Health",
+   "target": "o joelho",
+   "english": "knee",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 391,
+   "category": "Body & Health",
+   "target": "as costas",
+   "english": "back",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 392,
+   "category": "Body & Health",
+   "target": "a barriga",
+   "english": "stomach",
+   "altEnglish": [
+    "belly"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 393,
+   "category": "Body & Health",
+   "target": "o peito",
+   "english": "chest",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 394,
+   "category": "Body & Health",
+   "target": "o cabelo",
+   "english": "hair",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 395,
+   "category": "Body & Health",
+   "target": "a pele",
+   "english": "skin",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 396,
+   "category": "Body & Health",
+   "target": "o coração",
+   "english": "heart",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 397,
+   "category": "Body & Health",
+   "target": "o estômago",
+   "english": "stomach",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 398,
+   "category": "Body & Health",
+   "target": "o ombro",
+   "english": "shoulder",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 399,
+   "category": "Body & Health",
+   "target": "a dor de cabeça",
+   "english": "headache",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 400,
+   "category": "Body & Health",
+   "target": "a febre",
+   "english": "fever",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 401,
+   "category": "Body & Health",
+   "target": "a doença",
+   "english": "illness",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 402,
+   "category": "Body & Health",
+   "target": "a gripe",
+   "english": "flu",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 403,
+   "category": "Body & Health",
+   "target": "o remédio",
+   "english": "medicine",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 404,
+   "category": "Body & Health",
+   "target": "o comprimido",
+   "english": "tablet",
+   "altEnglish": [
+    "pill"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 405,
+   "category": "Body & Health",
+   "target": "a farmácia",
+   "english": "pharmacy",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 406,
+   "category": "Body & Health",
+   "target": "o hospital",
+   "english": "hospital",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 407,
+   "category": "Body & Health",
+   "target": "a saúde",
+   "english": "health",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 408,
+   "category": "Body & Health",
+   "target": "a dor",
+   "english": "pain",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 409,
+   "category": "Body & Health",
+   "target": "o penso rápido",
+   "english": "band-aid",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 410,
+   "category": "Body & Health",
+   "target": "a ligadura",
+   "english": "bandage",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 411,
+   "category": "Body & Health",
+   "target": "os óculos",
+   "english": "glasses",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 412,
+   "category": "Body & Health",
+   "target": "o dentista",
+   "english": "dentist",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 413,
+   "category": "Body & Health",
+   "target": "a tosse",
+   "english": "cough",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 414,
+   "category": "Body & Health",
+   "target": "a constipação",
+   "english": "cold",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 415,
+   "category": "Body & Health",
+   "target": "a lesão",
+   "english": "injury",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 416,
+   "category": "Body & Health",
+   "target": "a dieta",
+   "english": "diet",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 417,
+   "category": "Body & Health",
+   "target": "a massagem",
+   "english": "massage",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 418,
+   "category": "Body & Health",
+   "target": "a vacina",
+   "english": "vaccine",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 419,
+   "category": "Body & Health",
+   "target": "o sangue",
+   "english": "blood",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 420,
+   "category": "Food & Drink",
+   "target": "o pão",
+   "english": "bread",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 421,
+   "category": "Food & Drink",
+   "target": "a sandes",
+   "english": "sandwich",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 422,
+   "category": "Food & Drink",
+   "target": "o bolo",
+   "english": "cake",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 423,
+   "category": "Food & Drink",
+   "target": "a fruta",
+   "english": "fruit",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 424,
+   "category": "Food & Drink",
+   "target": "os legumes",
+   "english": "vegetables",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 425,
+   "category": "Food & Drink",
+   "target": "a maçã",
+   "english": "apple",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 426,
+   "category": "Food & Drink",
+   "target": "a banana",
+   "english": "banana",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 427,
+   "category": "Food & Drink",
+   "target": "a laranja",
+   "english": "orange",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 428,
+   "category": "Food & Drink",
+   "target": "a pera",
+   "english": "pear",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 429,
+   "category": "Food & Drink",
+   "target": "a uva",
+   "english": "grape",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 430,
+   "category": "Food & Drink",
+   "target": "o morango",
+   "english": "strawberry",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 431,
+   "category": "Food & Drink",
+   "target": "o damasco",
+   "english": "apricot",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 432,
+   "category": "Food & Drink",
+   "target": "a cereja",
+   "english": "cherry",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 433,
+   "category": "Food & Drink",
+   "target": "o limão",
+   "english": "lemon",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 434,
+   "category": "Food & Drink",
+   "target": "o pepino",
+   "english": "cucumber",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 435,
+   "category": "Food & Drink",
+   "target": "o tomate",
+   "english": "tomato",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 436,
+   "category": "Food & Drink",
+   "target": "a cebola",
+   "english": "onion",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 437,
+   "category": "Food & Drink",
+   "target": "o alho",
+   "english": "garlic",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 438,
+   "category": "Food & Drink",
+   "target": "a alface",
+   "english": "lettuce",
+   "altEnglish": [
+    "salad"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 439,
+   "category": "Food & Drink",
+   "target": "a cenoura",
+   "english": "carrot",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 440,
+   "category": "Food & Drink",
+   "target": "a couve-flor",
+   "english": "cauliflower",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 441,
+   "category": "Food & Drink",
+   "target": "a couve",
+   "english": "cabbage",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 442,
+   "category": "Food & Drink",
+   "target": "espinafres",
+   "english": "spinach",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 443,
+   "category": "Food & Drink",
+   "target": "o cogumelo",
+   "english": "mushroom",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 444,
+   "category": "Food & Drink",
+   "target": "a ervilha",
+   "english": "pea",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 445,
+   "category": "Food & Drink",
+   "target": "o feijão",
+   "english": "bean",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 446,
+   "category": "Food & Drink",
+   "target": "a beringela",
+   "english": "aubergine",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 447,
+   "category": "Food & Drink",
+   "target": "a abóbora",
+   "english": "pumpkin",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 448,
+   "category": "Food & Drink",
+   "target": "a batata",
+   "english": "potato",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 449,
+   "category": "Food & Drink",
+   "target": "a batata-doce",
+   "english": "sweet potato",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 450,
+   "category": "Food & Drink",
+   "target": "o arroz",
+   "english": "rice",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 451,
+   "category": "Food & Drink",
+   "target": "a massa",
+   "english": "pasta",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 452,
+   "category": "Food & Drink",
+   "target": "a farinha",
+   "english": "flour",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 453,
+   "category": "Food & Drink",
+   "target": "o açúcar",
+   "english": "sugar",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 454,
+   "category": "Food & Drink",
+   "target": "o sal",
+   "english": "salt",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 455,
+   "category": "Food & Drink",
+   "target": "a pimenta",
+   "english": "pepper",
+   "altEnglish": [
+    "chilli"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 456,
+   "category": "Food & Drink",
+   "target": "o azeite",
+   "english": "olive oil",
+   "altEnglish": [
+    "oil"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 457,
+   "category": "Food & Drink",
+   "target": "o vinagre",
+   "english": "vinegar",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 458,
+   "category": "Food & Drink",
+   "target": "a manteiga",
+   "english": "butter",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 459,
+   "category": "Food & Drink",
+   "target": "o leite",
+   "english": "milk",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 460,
+   "category": "Food & Drink",
+   "target": "o queijo",
+   "english": "cheese",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 461,
+   "category": "Food & Drink",
+   "target": "o iogurte",
+   "english": "yogurt",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 462,
+   "category": "Food & Drink",
+   "target": "o requeijão",
+   "english": "quark",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 463,
+   "category": "Food & Drink",
+   "target": "a nata",
+   "english": "cream",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 464,
+   "category": "Food & Drink",
+   "target": "o ovo",
+   "english": "egg",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 465,
+   "category": "Food & Drink",
+   "target": "a carne",
+   "english": "meat",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 466,
+   "category": "Food & Drink",
+   "target": "o frango",
+   "english": "chicken",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 467,
+   "category": "Food & Drink",
+   "target": "o bife",
+   "english": "steak",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 468,
+   "category": "Food & Drink",
+   "target": "a salsicha",
+   "english": "sausage",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 469,
+   "category": "Food & Drink",
+   "target": "o presunto",
+   "english": "ham",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 470,
+   "category": "Food & Drink",
+   "target": "o chouriço",
+   "english": "chorizo",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 471,
+   "category": "Food & Drink",
+   "target": "o toucinho",
+   "english": "bacon",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 472,
+   "category": "Food & Drink",
+   "target": "o peixe",
+   "english": "fish",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 473,
+   "category": "Food & Drink",
+   "target": "a água",
+   "english": "water",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 474,
+   "category": "Food & Drink",
+   "target": "o café",
+   "english": "coffee",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 475,
+   "category": "Food & Drink",
+   "target": "o chá",
+   "english": "tea",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 476,
+   "category": "Food & Drink",
+   "target": "o sumo",
+   "english": "juice",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 477,
+   "category": "Food & Drink",
+   "target": "a cerveja",
+   "english": "beer",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 478,
+   "category": "Food & Drink",
+   "target": "o vinho",
+   "english": "wine",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 479,
+   "category": "Food & Drink",
+   "target": "o refrigerante",
+   "english": "soft drink",
+   "altEnglish": [
+    "lemonade"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 480,
+   "category": "Food & Drink",
+   "target": "a bolacha",
+   "english": "biscuit",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 481,
+   "category": "Food & Drink",
+   "target": "o chocolate",
+   "english": "chocolate",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 482,
+   "category": "Food & Drink",
+   "target": "o gelado",
+   "english": "ice cream",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 483,
+   "category": "Food & Drink",
+   "target": "o doce",
+   "english": "sweet",
+   "altEnglish": [
+    "dessert"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 484,
+   "category": "Food & Drink",
+   "target": "a sopa",
+   "english": "soup",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 485,
+   "category": "Food & Drink",
+   "target": "a fome",
+   "english": "hunger",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 486,
+   "category": "Food & Drink",
+   "target": "a sede",
+   "english": "thirst",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 487,
+   "category": "Food & Drink",
+   "target": "a ementa",
+   "english": "menu",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 488,
+   "category": "Food & Drink",
+   "target": "o restaurante",
+   "english": "restaurant",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 489,
+   "category": "Food & Drink",
+   "target": "a conta",
+   "english": "bill",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 490,
+   "category": "Food & Drink",
+   "target": "a gorjeta",
+   "english": "tip",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 491,
+   "category": "Food & Drink",
+   "target": "o prato",
+   "english": "plate",
+   "altEnglish": [
+    "dish"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 492,
+   "category": "Food & Drink",
+   "target": "o garfo",
+   "english": "fork",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 493,
+   "category": "Food & Drink",
+   "target": "a faca",
+   "english": "knife",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 494,
+   "category": "Food & Drink",
+   "target": "a colher",
+   "english": "spoon",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 495,
+   "category": "Food & Drink",
+   "target": "a chávena",
+   "english": "cup",
+   "altEnglish": [
+    "teacup"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 496,
+   "category": "Food & Drink",
+   "target": "o copo",
+   "english": "glass",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 497,
+   "category": "Food & Drink",
+   "target": "a garrafa",
+   "english": "bottle",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 498,
+   "category": "Food & Drink",
+   "target": "a frigideira",
+   "english": "frying pan",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 499,
+   "category": "Food & Drink",
+   "target": "a panela",
+   "english": "pot",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 500,
+   "category": "Food & Drink",
+   "target": "a tigela",
+   "english": "bowl",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 501,
+   "category": "Food & Drink",
+   "target": "o forno",
+   "english": "oven",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 502,
+   "category": "Food & Drink",
+   "target": "o frigorífico",
+   "english": "fridge",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 503,
+   "category": "Food & Drink",
+   "target": "o fogão",
+   "english": "stove",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 504,
+   "category": "Food & Drink",
+   "target": "a porção",
+   "english": "portion",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 505,
+   "category": "Food & Drink",
+   "target": "o lanche",
+   "english": "snack",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 506,
+   "category": "Food & Drink",
+   "target": "o tempero",
+   "english": "spice",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 507,
+   "category": "Food & Drink",
+   "target": "o molho",
+   "english": "sauce",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 508,
+   "category": "Food & Drink",
+   "target": "batatas fritas",
+   "english": "chips",
+   "altEnglish": [
+    "fries"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 509,
+   "category": "Food & Drink",
+   "target": "a pizza",
+   "english": "pizza",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 510,
+   "category": "Food & Drink",
+   "target": "o almoço",
+   "english": "lunch",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 511,
+   "category": "Food & Drink",
+   "target": "o pequeno-almoço",
+   "english": "breakfast",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 512,
+   "category": "Food & Drink",
+   "target": "o jantar",
+   "english": "dinner",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 513,
+   "category": "Food & Drink",
+   "target": "a comida",
+   "english": "food",
+   "altEnglish": [
+    "meal"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 514,
+   "category": "Supermarket",
+   "target": "o supermercado",
+   "english": "supermarket",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 515,
+   "category": "Supermarket",
+   "target": "o mercado",
+   "english": "market",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 516,
+   "category": "Supermarket",
+   "target": "a loja",
+   "english": "shop",
+   "altEnglish": [
+    "store"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 517,
+   "category": "Supermarket",
+   "target": "a caixa",
+   "english": "checkout",
+   "altEnglish": [
+    "till"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 518,
+   "category": "Supermarket",
+   "target": "o carrinho",
+   "english": "shopping trolley",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 519,
+   "category": "Supermarket",
+   "target": "o saco",
+   "english": "plastic bag",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 520,
+   "category": "Supermarket",
+   "target": "a compra",
+   "english": "purchase",
+   "altEnglish": [
+    "shopping"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 521,
+   "category": "Supermarket",
+   "target": "a embalagem",
+   "english": "pack",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 522,
+   "category": "Supermarket",
+   "target": "o pacote",
+   "english": "packet",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 523,
+   "category": "Supermarket",
+   "target": "a peça",
+   "english": "piece",
+   "altEnglish": [
+    "part"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 524,
+   "category": "Supermarket",
+   "target": "a oferta",
+   "english": "offer",
+   "altEnglish": [
+    "deal"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 525,
+   "category": "Supermarket",
+   "target": "o preço",
+   "english": "price",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 526,
+   "category": "Supermarket",
+   "target": "o desconto",
+   "english": "discount",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 527,
+   "category": "Supermarket",
+   "target": "o cupão",
+   "english": "voucher",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 528,
+   "category": "Supermarket",
+   "target": "a lista",
+   "english": "list",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 529,
+   "category": "Supermarket",
+   "target": "o talão",
+   "english": "receipt",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 530,
+   "category": "Supermarket",
+   "target": "o recado",
+   "english": "note",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 531,
+   "category": "Supermarket",
+   "target": "a nota",
+   "english": "banknote",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 532,
+   "category": "Supermarket",
+   "target": "o dinheiro",
+   "english": "money",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 533,
+   "category": "Supermarket",
+   "target": "a moeda",
+   "english": "coin",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 534,
+   "category": "Supermarket",
+   "target": "o banco",
+   "english": "bank",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 535,
+   "category": "Supermarket",
+   "target": "a conta bancária",
+   "english": "bank account",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 536,
+   "category": "Supermarket",
+   "target": "o multibanco",
+   "english": "cash machine",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 537,
+   "category": "Supermarket",
+   "target": "o cartão",
+   "english": "card",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 538,
+   "category": "Supermarket",
+   "target": "o cartão de crédito",
+   "english": "credit card",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 539,
+   "category": "Supermarket",
+   "target": "o troco",
+   "english": "change",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 540,
+   "category": "Supermarket",
+   "target": "o tamanho",
+   "english": "size",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 541,
+   "category": "Supermarket",
+   "target": "a cor",
+   "english": "colour",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 542,
+   "category": "Supermarket",
+   "target": "a venda",
+   "english": "sale",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 543,
+   "category": "Supermarket",
+   "target": "as mercadorias",
+   "english": "goods",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 544,
+   "category": "Supermarket",
+   "target": "os custos",
+   "english": "costs",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 545,
+   "category": "Supermarket",
+   "target": "a renda",
+   "english": "rent",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 546,
+   "category": "Supermarket",
+   "target": "o imposto",
+   "english": "tax",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 547,
+   "category": "Supermarket",
+   "target": "a caução",
+   "english": "deposit",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 548,
+   "category": "Supermarket",
+   "target": "a mala",
+   "english": "suitcase",
+   "altEnglish": [
+    "bag"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 549,
+   "category": "Supermarket",
+   "target": "a mochila",
+   "english": "backpack",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 550,
+   "category": "Supermarket",
+   "target": "a balança",
+   "english": "scales",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 551,
+   "category": "Supermarket",
+   "target": "a encomenda",
+   "english": "parcel",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 552,
+   "category": "Supermarket",
+   "target": "a fatura",
+   "english": "invoice",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 553,
+   "category": "Supermarket",
+   "target": "o cartão de débito",
+   "english": "debit card",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 554,
+   "category": "Supermarket",
+   "target": "o cesto",
+   "english": "basket",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 555,
+   "category": "Supermarket",
+   "target": "a prateleira",
+   "english": "shelf",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 556,
+   "category": "Home",
+   "target": "a casa",
+   "english": "house",
+   "altEnglish": [
+    "home"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 557,
+   "category": "Home",
+   "target": "o apartamento",
+   "english": "flat",
+   "altEnglish": [
+    "apartment"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 558,
+   "category": "Home",
+   "target": "o quarto",
+   "english": "bedroom",
+   "altEnglish": [
+    "room"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 559,
+   "category": "Home",
+   "target": "a cozinha",
+   "english": "kitchen",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 560,
+   "category": "Home",
+   "target": "a casa de banho",
+   "english": "bathroom",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 561,
+   "category": "Home",
+   "target": "a banheira",
+   "english": "bathtub",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 562,
+   "category": "Home",
+   "target": "a sanita",
+   "english": "toilet",
+   "altEnglish": [
+    "toilet bowl"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 563,
+   "category": "Home",
+   "target": "o WC",
+   "english": "toilet",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 564,
+   "category": "Home",
+   "target": "a sala",
+   "english": "living room",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 565,
+   "category": "Home",
+   "target": "a sala de estar",
+   "english": "living room",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 566,
+   "category": "Home",
+   "target": "o jardim",
+   "english": "garden",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 567,
+   "category": "Home",
+   "target": "a varanda",
+   "english": "balcony",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 568,
+   "category": "Home",
+   "target": "a porta",
+   "english": "door",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 569,
+   "category": "Home",
+   "target": "a janela",
+   "english": "window",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 570,
+   "category": "Home",
+   "target": "a escada",
+   "english": "stairs",
+   "altEnglish": [
+    "ladder"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 571,
+   "category": "Home",
+   "target": "o chão",
+   "english": "floor",
+   "altEnglish": [
+    "ground"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 572,
+   "category": "Home",
+   "target": "a parede",
+   "english": "wall",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 573,
+   "category": "Home",
+   "target": "o telhado",
+   "english": "roof",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 574,
+   "category": "Home",
+   "target": "a chave",
+   "english": "key",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 575,
+   "category": "Home",
+   "target": "a cama",
+   "english": "bed",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 576,
+   "category": "Home",
+   "target": "a mesa",
+   "english": "table",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 577,
+   "category": "Home",
+   "target": "a cadeira",
+   "english": "chair",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 578,
+   "category": "Home",
+   "target": "o sofá",
+   "english": "sofa",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 579,
+   "category": "Home",
+   "target": "o armário",
+   "english": "cupboard",
+   "altEnglish": [
+    "wardrobe"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 580,
+   "category": "Home",
+   "target": "o tapete",
+   "english": "carpet",
+   "altEnglish": [
+    "rug"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 581,
+   "category": "Home",
+   "target": "o espelho",
+   "english": "mirror",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 582,
+   "category": "Home",
+   "target": "a almofada",
+   "english": "cushion",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 583,
+   "category": "Home",
+   "target": "a manta",
+   "english": "blanket",
+   "altEnglish": [
+    "throw"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 584,
+   "category": "Home",
+   "target": "o teto",
+   "english": "ceiling",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 585,
+   "category": "Home",
+   "target": "a televisão",
+   "english": "TV",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 586,
+   "category": "Home",
+   "target": "o rádio",
+   "english": "radio",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 587,
+   "category": "Home",
+   "target": "a máquina de lavar roupa",
+   "english": "washing machine",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 588,
+   "category": "Home",
+   "target": "o aspirador",
+   "english": "vacuum cleaner",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 589,
+   "category": "Home",
+   "target": "a vassoura",
+   "english": "broom",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 590,
+   "category": "Home",
+   "target": "o lixo",
+   "english": "rubbish",
+   "altEnglish": [
+    "waste"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 591,
+   "category": "Home",
+   "target": "o caixote do lixo",
+   "english": "bin",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 592,
+   "category": "Home",
+   "target": "o sabão",
+   "english": "soap",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 593,
+   "category": "Home",
+   "target": "o duche",
+   "english": "shower",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 594,
+   "category": "Home",
+   "target": "a toalha",
+   "english": "towel",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 595,
+   "category": "Home",
+   "target": "o papel higiénico",
+   "english": "toilet paper",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 596,
+   "category": "Home",
+   "target": "o aquecimento",
+   "english": "heating",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 597,
+   "category": "Home",
+   "target": "a eletricidade",
+   "english": "electricity",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 598,
+   "category": "Home",
+   "target": "a tomada",
+   "english": "power socket",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 599,
+   "category": "Home",
+   "target": "a lâmpada",
+   "english": "light bulb",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 600,
+   "category": "Home",
+   "target": "a luz",
+   "english": "light",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 601,
+   "category": "Home",
+   "target": "o interruptor",
+   "english": "switch",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 602,
+   "category": "Home",
+   "target": "a garagem",
+   "english": "garage",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 603,
+   "category": "Home",
+   "target": "a cave",
+   "english": "cellar",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 604,
+   "category": "Home",
+   "target": "a caixa do correio",
+   "english": "letterbox",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 605,
+   "category": "Home",
+   "target": "a campainha",
+   "english": "doorbell",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 606,
+   "category": "Clothes",
+   "target": "a roupa",
+   "english": "clothing",
+   "altEnglish": [
+    "clothes"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 607,
+   "category": "Clothes",
+   "target": "a camisa",
+   "english": "shirt",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 608,
+   "category": "Clothes",
+   "target": "as calças",
+   "english": "trousers",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 609,
+   "category": "Clothes",
+   "target": "a saia",
+   "english": "skirt",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 610,
+   "category": "Clothes",
+   "target": "o vestido",
+   "english": "dress",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 611,
+   "category": "Clothes",
+   "target": "a camisola",
+   "english": "jumper",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 612,
+   "category": "Clothes",
+   "target": "o casaco",
+   "english": "jacket",
+   "altEnglish": [
+    "coat"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 613,
+   "category": "Clothes",
+   "target": "o sobretudo",
+   "english": "coat",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 614,
+   "category": "Clothes",
+   "target": "a meia",
+   "english": "sock",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 615,
+   "category": "Clothes",
+   "target": "o sapato",
+   "english": "shoe",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 616,
+   "category": "Clothes",
+   "target": "o chapéu",
+   "english": "hat",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 617,
+   "category": "Clothes",
+   "target": "o gorro",
+   "english": "beanie",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 618,
+   "category": "Clothes",
+   "target": "o cachecol",
+   "english": "scarf",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 619,
+   "category": "Clothes",
+   "target": "a luva",
+   "english": "glove",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 620,
+   "category": "Clothes",
+   "target": "a roupa interior",
+   "english": "underwear",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 621,
+   "category": "Clothes",
+   "target": "a camiseta",
+   "english": "t-shirt",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 622,
+   "category": "Clothes",
+   "target": "a blusa",
+   "english": "blouse",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 623,
+   "category": "Clothes",
+   "target": "a gravata",
+   "english": "tie",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 624,
+   "category": "Clothes",
+   "target": "as meias-calças",
+   "english": "tights",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 625,
+   "category": "Clothes",
+   "target": "o cinto",
+   "english": "belt",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 626,
+   "category": "Clothes",
+   "target": "o fato",
+   "english": "suit",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 627,
+   "category": "Clothes",
+   "target": "o impermeável",
+   "english": "raincoat",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 628,
+   "category": "Clothes",
+   "target": "o fato de banho",
+   "english": "swimsuit",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 629,
+   "category": "Clothes",
+   "target": "o calção de banho",
+   "english": "swimming trunks",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 630,
+   "category": "Clothes",
+   "target": "o pijama",
+   "english": "pyjamas",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 631,
+   "category": "Clothes",
+   "target": "o biquíni",
+   "english": "bikini",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 632,
+   "category": "Clothes",
+   "target": "a sandália",
+   "english": "sandal",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 633,
+   "category": "Clothes",
+   "target": "a bota",
+   "english": "boot",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 634,
+   "category": "Clothes",
+   "target": "o anel",
+   "english": "ring",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 635,
+   "category": "Clothes",
+   "target": "o colar",
+   "english": "necklace",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 636,
+   "category": "Transport & Places",
+   "target": "o autocarro",
+   "english": "bus",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 637,
+   "category": "Transport & Places",
+   "target": "o elétrico",
+   "english": "tram",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 638,
+   "category": "Transport & Places",
+   "target": "o comboio",
+   "english": "train",
+   "altEnglish": [
+    "railway"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 639,
+   "category": "Transport & Places",
+   "target": "a estação",
+   "english": "station",
+   "altEnglish": [
+    "train station"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 640,
+   "category": "Transport & Places",
+   "target": "o metro",
+   "english": "underground",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 641,
+   "category": "Transport & Places",
+   "target": "a paragem",
+   "english": "stop",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 642,
+   "category": "Transport & Places",
+   "target": "o horário",
+   "english": "timetable",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 643,
+   "category": "Transport & Places",
+   "target": "o bilhete",
+   "english": "ticket",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 644,
+   "category": "Transport & Places",
+   "target": "o avião",
+   "english": "aeroplane",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 645,
+   "category": "Transport & Places",
+   "target": "o voo",
+   "english": "flight",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 646,
+   "category": "Transport & Places",
+   "target": "o aeroporto",
+   "english": "airport",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 647,
+   "category": "Transport & Places",
+   "target": "o carro",
+   "english": "car",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 648,
+   "category": "Transport & Places",
+   "target": "o trânsito",
+   "english": "traffic",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 649,
+   "category": "Transport & Places",
+   "target": "a rua",
+   "english": "street",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 650,
+   "category": "Transport & Places",
+   "target": "a autoestrada",
+   "english": "motorway",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 651,
+   "category": "Transport & Places",
+   "target": "o cruzamento",
+   "english": "crossroads",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 652,
+   "category": "Transport & Places",
+   "target": "o semáforo",
+   "english": "traffic light",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 653,
+   "category": "Transport & Places",
+   "target": "o parque de estacionamento",
+   "english": "car park",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 654,
+   "category": "Transport & Places",
+   "target": "a bicicleta",
+   "english": "bicycle",
+   "altEnglish": [
+    "bike"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 655,
+   "category": "Transport & Places",
+   "target": "o capacete",
+   "english": "helmet",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 656,
+   "category": "Transport & Places",
+   "target": "o caminho",
+   "english": "way",
+   "altEnglish": [
+    "path"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 657,
+   "category": "Transport & Places",
+   "target": "a direção",
+   "english": "direction",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 658,
+   "category": "Transport & Places",
+   "target": "a ponte",
+   "english": "bridge",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 659,
+   "category": "Transport & Places",
+   "target": "o túnel",
+   "english": "tunnel",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 660,
+   "category": "Transport & Places",
+   "target": "o porto",
+   "english": "port",
+   "altEnglish": [
+    "harbour"
+   ],
+   "difficulty": 3
+  },
+  {
+   "id": 661,
+   "category": "Transport & Places",
+   "target": "o navio",
+   "english": "ship",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 662,
+   "category": "Transport & Places",
+   "target": "a viagem",
+   "english": "trip",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 663,
+   "category": "Transport & Places",
+   "target": "as férias",
+   "english": "holiday",
+   "altEnglish": [
+    "vacation"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 664,
+   "category": "Transport & Places",
+   "target": "o hotel",
+   "english": "hotel",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 665,
+   "category": "Transport & Places",
+   "target": "o alojamento",
+   "english": "accommodation",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 666,
+   "category": "Transport & Places",
+   "target": "o passaporte",
+   "english": "passport",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 667,
+   "category": "Transport & Places",
+   "target": "o cartão de cidadão",
+   "english": "ID card",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 668,
+   "category": "Transport & Places",
+   "target": "a bagagem",
+   "english": "luggage",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 669,
+   "category": "Transport & Places",
+   "target": "a partida",
+   "english": "departure",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 670,
+   "category": "Transport & Places",
+   "target": "a chegada",
+   "english": "arrival",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 671,
+   "category": "Transport & Places",
+   "target": "o atraso",
+   "english": "delay",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 672,
+   "category": "Transport & Places",
+   "target": "o táxi",
+   "english": "taxi",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 673,
+   "category": "Transport & Places",
+   "target": "a ligação",
+   "english": "connection",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 674,
+   "category": "Transport & Places",
+   "target": "o lugar",
+   "english": "seat",
+   "altEnglish": [
+    "place"
+   ],
+   "difficulty": 3
+  },
+  {
+   "id": 675,
+   "category": "Transport & Places",
+   "target": "a cidade",
+   "english": "city",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 676,
+   "category": "Transport & Places",
+   "target": "o país",
+   "english": "country",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 677,
+   "category": "Transport & Places",
+   "target": "o sítio",
+   "english": "place",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 678,
+   "category": "Transport & Places",
+   "target": "o canto",
+   "english": "corner",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 679,
+   "category": "Transport & Places",
+   "target": "o parque",
+   "english": "park",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 680,
+   "category": "Transport & Places",
+   "target": "a praça",
+   "english": "square",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 681,
+   "category": "Transport & Places",
+   "target": "a fronteira",
+   "english": "border",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 682,
+   "category": "Transport & Places",
+   "target": "o museu",
+   "english": "museum",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 683,
+   "category": "Transport & Places",
+   "target": "a igreja",
+   "english": "church",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 684,
+   "category": "Transport & Places",
+   "target": "o castelo",
+   "english": "castle",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 685,
+   "category": "Transport & Places",
+   "target": "a entrada",
+   "english": "entrance",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 686,
+   "category": "Transport & Places",
+   "target": "a saída",
+   "english": "exit",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 687,
+   "category": "Transport & Places",
+   "target": "a escada rolante",
+   "english": "escalator",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 688,
+   "category": "Transport & Places",
+   "target": "o elevador",
+   "english": "lift",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 689,
+   "category": "Transport & Places",
+   "target": "o engarrafamento",
+   "english": "traffic jam",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 690,
+   "category": "Transport & Places",
+   "target": "o correio",
+   "english": "post office",
+   "altEnglish": [
+    "mail"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 691,
+   "category": "Transport & Places",
+   "target": "o cinema",
+   "english": "cinema",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 692,
+   "category": "Transport & Places",
+   "target": "o teatro",
+   "english": "theatre",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 693,
+   "category": "Transport & Places",
+   "target": "a passadeira",
+   "english": "zebra crossing",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 694,
+   "category": "Transport & Places",
+   "target": "a aldeia",
+   "english": "village",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 695,
+   "category": "Office & Work",
+   "target": "o trabalho",
+   "english": "work",
+   "altEnglish": [
+    "job"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 696,
+   "category": "Office & Work",
+   "target": "o emprego",
+   "english": "job",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 697,
+   "category": "Office & Work",
+   "target": "a empresa",
+   "english": "company",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 698,
+   "category": "Office & Work",
+   "target": "o escritório",
+   "english": "office",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 699,
+   "category": "Office & Work",
+   "target": "a secretária",
+   "english": "desk",
+   "altEnglish": [
+    "secretary"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 700,
+   "category": "Office & Work",
+   "target": "o computador",
+   "english": "computer",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 701,
+   "category": "Office & Work",
+   "target": "o portátil",
+   "english": "laptop",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 702,
+   "category": "Office & Work",
+   "target": "o telefone",
+   "english": "telephone",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 703,
+   "category": "Office & Work",
+   "target": "o telemóvel",
+   "english": "mobile phone",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 704,
+   "category": "Office & Work",
+   "target": "a internet",
+   "english": "internet",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 705,
+   "category": "Office & Work",
+   "target": "o email",
+   "english": "email",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 706,
+   "category": "Office & Work",
+   "target": "a carta",
+   "english": "letter",
+   "altEnglish": [
+    "chart"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 707,
+   "category": "Office & Work",
+   "target": "a impressora",
+   "english": "printer",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 708,
+   "category": "Office & Work",
+   "target": "o papel",
+   "english": "paper",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 709,
+   "category": "Office & Work",
+   "target": "a caneta",
+   "english": "pen",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 710,
+   "category": "Office & Work",
+   "target": "a pasta",
+   "english": "folder",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 711,
+   "category": "Office & Work",
+   "target": "o ficheiro",
+   "english": "file",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 712,
+   "category": "Office & Work",
+   "target": "o documento",
+   "english": "document",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 713,
+   "category": "Office & Work",
+   "target": "o relatório",
+   "english": "report",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 714,
+   "category": "Office & Work",
+   "target": "a reunião",
+   "english": "meeting",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 715,
+   "category": "Office & Work",
+   "target": "a conferência",
+   "english": "conference",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 716,
+   "category": "Office & Work",
+   "target": "o compromisso",
+   "english": "appointment",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 717,
+   "category": "Office & Work",
+   "target": "o contrato",
+   "english": "contract",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 718,
+   "category": "Office & Work",
+   "target": "o prazo",
+   "english": "deadline",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 719,
+   "category": "Office & Work",
+   "target": "o projeto",
+   "english": "project",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 720,
+   "category": "Office & Work",
+   "target": "a tarefa",
+   "english": "task",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 721,
+   "category": "Office & Work",
+   "target": "o objetivo",
+   "english": "goal",
+   "altEnglish": [
+    "aim"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 722,
+   "category": "Office & Work",
+   "target": "a ideia",
+   "english": "idea",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 723,
+   "category": "Office & Work",
+   "target": "o plano",
+   "english": "plan",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 724,
+   "category": "Office & Work",
+   "target": "a apresentação",
+   "english": "presentation",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 725,
+   "category": "Office & Work",
+   "target": "o salário",
+   "english": "salary",
+   "altEnglish": [
+    "wage"
+   ],
+   "difficulty": 3
+  },
+  {
+   "id": 726,
+   "category": "Office & Work",
+   "target": "a pausa",
+   "english": "break",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 727,
+   "category": "Office & Work",
+   "target": "a pausa para almoço",
+   "english": "lunch break",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 728,
+   "category": "Office & Work",
+   "target": "o departamento",
+   "english": "department",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 729,
+   "category": "Office & Work",
+   "target": "a responsabilidade",
+   "english": "responsibility",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 730,
+   "category": "Office & Work",
+   "target": "a experiência",
+   "english": "experience",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 731,
+   "category": "Office & Work",
+   "target": "o problema",
+   "english": "problem",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 732,
+   "category": "Office & Work",
+   "target": "a solução",
+   "english": "solution",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 733,
+   "category": "Office & Work",
+   "target": "a pergunta",
+   "english": "question",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 734,
+   "category": "Office & Work",
+   "target": "a resposta",
+   "english": "answer",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 735,
+   "category": "Office & Work",
+   "target": "a informação",
+   "english": "information",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 736,
+   "category": "Office & Work",
+   "target": "a mensagem",
+   "english": "message",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 737,
+   "category": "Office & Work",
+   "target": "o contacto",
+   "english": "contact",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 738,
+   "category": "Office & Work",
+   "target": "a colaboração",
+   "english": "cooperation",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 739,
+   "category": "Office & Work",
+   "target": "a equipa",
+   "english": "team",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 740,
+   "category": "Office & Work",
+   "target": "o grupo",
+   "english": "group",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 741,
+   "category": "Office & Work",
+   "target": "o posto",
+   "english": "position",
+   "altEnglish": [
+    "job"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 742,
+   "category": "Office & Work",
+   "target": "o currículo",
+   "english": "CV",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 743,
+   "category": "Office & Work",
+   "target": "a entrevista de emprego",
+   "english": "job interview",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 744,
+   "category": "Office & Work",
+   "target": "o sucesso",
+   "english": "success",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 745,
+   "category": "Office & Work",
+   "target": "o erro",
+   "english": "mistake",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 746,
+   "category": "Office & Work",
+   "target": "a cópia",
+   "english": "copy",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 747,
+   "category": "Office & Work",
+   "target": "os documentos",
+   "english": "papers",
+   "altEnglish": [
+    "documents"
+   ],
+   "difficulty": 3
+  },
+  {
+   "id": 748,
+   "category": "Office & Work",
+   "target": "o volume de negócios",
+   "english": "turnover",
+   "altEnglish": [
+    "sales"
+   ],
+   "difficulty": 3
+  },
+  {
+   "id": 749,
+   "category": "School & Study",
+   "target": "a escola",
+   "english": "school",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 750,
+   "category": "School & Study",
+   "target": "a turma",
+   "english": "class",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 751,
+   "category": "School & Study",
+   "target": "a sala de aula",
+   "english": "classroom",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 752,
+   "category": "School & Study",
+   "target": "o caderno",
+   "english": "exercise book",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 753,
+   "category": "School & Study",
+   "target": "o livro",
+   "english": "book",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 754,
+   "category": "School & Study",
+   "target": "o dicionário",
+   "english": "dictionary",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 755,
+   "category": "School & Study",
+   "target": "o exame",
+   "english": "exam",
+   "altEnglish": [
+    "test"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 756,
+   "category": "School & Study",
+   "target": "a classificação",
+   "english": "grade",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 757,
+   "category": "School & Study",
+   "target": "o trabalho de casa",
+   "english": "homework",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 758,
+   "category": "School & Study",
+   "target": "o teste",
+   "english": "test",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 759,
+   "category": "School & Study",
+   "target": "a universidade",
+   "english": "university",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 760,
+   "category": "School & Study",
+   "target": "a aula",
+   "english": "lesson",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 761,
+   "category": "School & Study",
+   "target": "a língua",
+   "english": "language",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 762,
+   "category": "School & Study",
+   "target": "a palavra",
+   "english": "word",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 763,
+   "category": "School & Study",
+   "target": "a frase",
+   "english": "sentence",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 764,
+   "category": "School & Study",
+   "target": "o texto",
+   "english": "text",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 765,
+   "category": "School & Study",
+   "target": "o exercício",
+   "english": "exercise",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 766,
+   "category": "School & Study",
+   "target": "o tema",
+   "english": "topic",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 767,
+   "category": "School & Study",
+   "target": "a disciplina",
+   "english": "subject",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 768,
+   "category": "School & Study",
+   "target": "o curso",
+   "english": "course",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 769,
+   "category": "School & Study",
+   "target": "o conhecimento",
+   "english": "knowledge",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 770,
+   "category": "School & Study",
+   "target": "a educação",
+   "english": "education",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 771,
+   "category": "School & Study",
+   "target": "o exemplo",
+   "english": "example",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 772,
+   "category": "School & Study",
+   "target": "a regra",
+   "english": "rule",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 773,
+   "category": "School & Study",
+   "target": "a gramática",
+   "english": "grammar",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 774,
+   "category": "School & Study",
+   "target": "a pronúncia",
+   "english": "pronunciation",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 775,
+   "category": "School & Study",
+   "target": "a letra",
+   "english": "letter of the alphabet",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 776,
+   "category": "School & Study",
+   "target": "o número",
+   "english": "number",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 777,
+   "category": "School & Study",
+   "target": "o alfabeto",
+   "english": "alphabet",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 778,
+   "category": "School & Study",
+   "target": "o significado",
+   "english": "meaning",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 779,
+   "category": "School & Study",
+   "target": "o vocabulário",
+   "english": "vocabulary",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 780,
+   "category": "Sports & Gym",
+   "target": "o desporto",
+   "english": "sport",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 781,
+   "category": "Sports & Gym",
+   "target": "o treino",
+   "english": "training",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 782,
+   "category": "Sports & Gym",
+   "target": "o ginásio",
+   "english": "gym",
+   "altEnglish": [
+    "fitness studio"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 783,
+   "category": "Sports & Gym",
+   "target": "a bola",
+   "english": "ball",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 784,
+   "category": "Sports & Gym",
+   "target": "o jogo",
+   "english": "game",
+   "altEnglish": [
+    "match"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 785,
+   "category": "Sports & Gym",
+   "target": "o futebol",
+   "english": "football",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 786,
+   "category": "Sports & Gym",
+   "target": "a baliza",
+   "english": "goal",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 787,
+   "category": "Sports & Gym",
+   "target": "a vitória",
+   "english": "victory",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 788,
+   "category": "Sports & Gym",
+   "target": "o treinador",
+   "english": "trainer (male)",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 789,
+   "category": "Sports & Gym",
+   "target": "a treinadora",
+   "english": "trainer (female)",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 790,
+   "category": "Sports & Gym",
+   "target": "o peso",
+   "english": "weight",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 791,
+   "category": "Sports & Gym",
+   "target": "a força",
+   "english": "strength",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 792,
+   "category": "Sports & Gym",
+   "target": "a volta",
+   "english": "lap",
+   "altEnglish": [
+    "round"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 793,
+   "category": "Sports & Gym",
+   "target": "o suor",
+   "english": "sweat",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 794,
+   "category": "Sports & Gym",
+   "target": "o músculo",
+   "english": "muscle",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 795,
+   "category": "Sports & Gym",
+   "target": "a condição física",
+   "english": "fitness",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 796,
+   "category": "Sports & Gym",
+   "target": "a piscina",
+   "english": "swimming pool",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 797,
+   "category": "Sports & Gym",
+   "target": "o esqui",
+   "english": "ski",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 798,
+   "category": "Sports & Gym",
+   "target": "o ténis",
+   "english": "tennis",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 799,
+   "category": "Sports & Gym",
+   "target": "a caminhada",
+   "english": "hike",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 800,
+   "category": "Sports & Gym",
+   "target": "o movimento",
+   "english": "movement",
+   "altEnglish": [
+    "exercise"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 801,
+   "category": "Sports & Gym",
+   "target": "a competição",
+   "english": "competition",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 802,
+   "category": "Sports & Gym",
+   "target": "o haltere",
+   "english": "dumbbell",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 803,
+   "category": "Sports & Gym",
+   "target": "o estádio",
+   "english": "stadium",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 804,
+   "category": "Sports & Gym",
+   "target": "o campo desportivo",
+   "english": "sports ground",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 805,
+   "category": "Technology & Media",
+   "target": "o smartphone",
+   "english": "smartphone",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 806,
+   "category": "Technology & Media",
+   "target": "a aplicação",
+   "english": "app",
+   "altEnglish": [
+    "application"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 807,
+   "category": "Technology & Media",
+   "target": "o site",
+   "english": "website",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 808,
+   "category": "Technology & Media",
+   "target": "a palavra-passe",
+   "english": "password",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 809,
+   "category": "Technology & Media",
+   "target": "a bateria",
+   "english": "battery",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 810,
+   "category": "Technology & Media",
+   "target": "o carregador",
+   "english": "charger",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 811,
+   "category": "Technology & Media",
+   "target": "a foto",
+   "english": "photo",
+   "altEnglish": [
+    "picture"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 812,
+   "category": "Technology & Media",
+   "target": "a câmara",
+   "english": "camera",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 813,
+   "category": "Technology & Media",
+   "target": "o vídeo",
+   "english": "video",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 814,
+   "category": "Technology & Media",
+   "target": "a imagem",
+   "english": "picture",
+   "altEnglish": [
+    "image"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 815,
+   "category": "Technology & Media",
+   "target": "o filme",
+   "english": "film",
+   "altEnglish": [
+    "movie"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 816,
+   "category": "Technology & Media",
+   "target": "a música",
+   "english": "music",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 817,
+   "category": "Technology & Media",
+   "target": "a canção",
+   "english": "song",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 818,
+   "category": "Technology & Media",
+   "target": "o SMS",
+   "english": "text message",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 819,
+   "category": "Technology & Media",
+   "target": "a chamada",
+   "english": "phone call",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 820,
+   "category": "Technology & Media",
+   "target": "o número de telefone",
+   "english": "phone number",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 821,
+   "category": "Technology & Media",
+   "target": "a morada",
+   "english": "address",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 822,
+   "category": "Technology & Media",
+   "target": "o link",
+   "english": "link",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 823,
+   "category": "Technology & Media",
+   "target": "o download",
+   "english": "download",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 824,
+   "category": "Technology & Media",
+   "target": "o programa",
+   "english": "program",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 825,
+   "category": "Technology & Media",
+   "target": "o chat",
+   "english": "chat",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 826,
+   "category": "Technology & Media",
+   "target": "o Wi-Fi",
+   "english": "wifi",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 827,
+   "category": "Technology & Media",
+   "target": "o ecrã",
+   "english": "screen",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 828,
+   "category": "Technology & Media",
+   "target": "o rato",
+   "english": "computer mouse",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 829,
+   "category": "Technology & Media",
+   "target": "o teclado",
+   "english": "keyboard",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 830,
+   "category": "Technology & Media",
+   "target": "o monitor",
+   "english": "monitor",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 831,
+   "category": "Technology & Media",
+   "target": "o som",
+   "english": "sound",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 832,
+   "category": "Technology & Media",
+   "target": "a voz",
+   "english": "voice",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 833,
+   "category": "Technology & Media",
+   "target": "a tecla",
+   "english": "button",
+   "altEnglish": [
+    "key"
+   ],
+   "difficulty": 3
+  },
+  {
+   "id": 834,
+   "category": "Technology & Media",
+   "target": "o jornal",
+   "english": "newspaper",
+   "altEnglish": [
+    "paper"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 835,
+   "category": "Technology & Media",
+   "target": "a revista",
+   "english": "magazine",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 836,
+   "category": "Feelings",
+   "target": "a alegria",
+   "english": "joy",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 837,
+   "category": "Feelings",
+   "target": "o amor",
+   "english": "love",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 838,
+   "category": "Feelings",
+   "target": "o medo",
+   "english": "fear",
+   "altEnglish": [
+    "afraid"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 839,
+   "category": "Feelings",
+   "target": "a raiva",
+   "english": "anger",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 840,
+   "category": "Feelings",
+   "target": "a tristeza",
+   "english": "sadness",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 841,
+   "category": "Feelings",
+   "target": "a sorte",
+   "english": "luck",
+   "altEnglish": [
+    "fortune"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 842,
+   "category": "Feelings",
+   "target": "o stress",
+   "english": "stress",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 843,
+   "category": "Feelings",
+   "target": "a preocupação",
+   "english": "worry",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 844,
+   "category": "Feelings",
+   "target": "o humor",
+   "english": "mood",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 845,
+   "category": "Feelings",
+   "target": "a esperança",
+   "english": "hope",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 846,
+   "category": "Feelings",
+   "target": "o sonho",
+   "english": "dream",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 847,
+   "category": "Feelings",
+   "target": "a paciência",
+   "english": "patience",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 848,
+   "category": "Feelings",
+   "target": "o sentimento",
+   "english": "feeling",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 849,
+   "category": "Feelings",
+   "target": "a opinião",
+   "english": "opinion",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 850,
+   "category": "Feelings",
+   "target": "o desejo",
+   "english": "wish",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 851,
+   "category": "Feelings",
+   "target": "a razão",
+   "english": "reason",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 852,
+   "category": "Feelings",
+   "target": "o silêncio",
+   "english": "silence",
+   "altEnglish": [
+    "quiet"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 853,
+   "category": "Feelings",
+   "target": "o prazer",
+   "english": "pleasure",
+   "altEnglish": [
+    "enjoyment"
+   ],
+   "difficulty": 3
+  },
+  {
+   "id": 854,
+   "category": "Feelings",
+   "target": "o tédio",
+   "english": "boredom",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 855,
+   "category": "Feelings",
+   "target": "a paz",
+   "english": "peace",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 856,
+   "category": "Animals",
+   "target": "o animal",
+   "english": "animal",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 857,
+   "category": "Animals",
+   "target": "o cão",
+   "english": "dog",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 858,
+   "category": "Animals",
+   "target": "o gato",
+   "english": "cat",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 859,
+   "category": "Animals",
+   "target": "o cavalo",
+   "english": "horse",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 860,
+   "category": "Animals",
+   "target": "a vaca",
+   "english": "cow",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 861,
+   "category": "Animals",
+   "target": "o porco",
+   "english": "pig",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 862,
+   "category": "Animals",
+   "target": "a galinha",
+   "english": "hen",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 863,
+   "category": "Animals",
+   "target": "o pássaro",
+   "english": "bird",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 864,
+   "category": "Animals",
+   "target": "a abelha",
+   "english": "bee",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 865,
+   "category": "Animals",
+   "target": "a formiga",
+   "english": "ant",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 866,
+   "category": "Animals",
+   "target": "a mosca",
+   "english": "fly",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 867,
+   "category": "Animals",
+   "target": "a cobra",
+   "english": "snake",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 868,
+   "category": "Animals",
+   "target": "o urso",
+   "english": "bear",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 869,
+   "category": "Animals",
+   "target": "o lobo",
+   "english": "wolf",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 870,
+   "category": "Animals",
+   "target": "a raposa",
+   "english": "fox",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 871,
+   "category": "Animals",
+   "target": "a lebre",
+   "english": "hare",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 872,
+   "category": "Animals",
+   "target": "o coelho",
+   "english": "rabbit",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 873,
+   "category": "Animals",
+   "target": "o esquilo",
+   "english": "squirrel",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 874,
+   "category": "Animals",
+   "target": "a borboleta",
+   "english": "butterfly",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 875,
+   "category": "Animals",
+   "target": "a aranha",
+   "english": "spider",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 876,
+   "category": "Animals",
+   "target": "o macaco",
+   "english": "monkey",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 877,
+   "category": "Animals",
+   "target": "o leão",
+   "english": "lion",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 878,
+   "category": "Adjectives & Adverbs",
+   "target": "bom",
+   "english": "good",
+   "altEnglish": [
+    "fine"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 879,
+   "category": "Adjectives & Adverbs",
+   "target": "mau",
+   "english": "bad",
+   "altEnglish": [
+    "evil"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 880,
+   "category": "Adjectives & Adverbs",
+   "target": "grande",
+   "english": "big",
+   "altEnglish": [
+    "tall"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 881,
+   "category": "Adjectives & Adverbs",
+   "target": "pequeno",
+   "english": "small",
+   "altEnglish": [
+    "little"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 882,
+   "category": "Adjectives & Adverbs",
+   "target": "velho",
+   "english": "old",
+   "altEnglish": [
+    "elderly"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 883,
+   "category": "Adjectives & Adverbs",
+   "target": "novo",
+   "english": "new",
+   "altEnglish": [
+    "young"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 884,
+   "category": "Adjectives & Adverbs",
+   "target": "jovem",
+   "english": "young",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 885,
+   "category": "Adjectives & Adverbs",
+   "target": "bonito",
+   "english": "beautiful",
+   "altEnglish": [
+    "nice"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 886,
+   "category": "Adjectives & Adverbs",
+   "target": "feio",
+   "english": "ugly",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 887,
+   "category": "Adjectives & Adverbs",
+   "target": "claro",
+   "english": "bright",
+   "altEnglish": [
+    "light"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 888,
+   "category": "Adjectives & Adverbs",
+   "target": "escuro",
+   "english": "dark",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 889,
+   "category": "Adjectives & Adverbs",
+   "target": "quente",
+   "english": "hot",
+   "altEnglish": [
+    "warm"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 890,
+   "category": "Adjectives & Adverbs",
+   "target": "frio",
+   "english": "cold",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 891,
+   "category": "Adjectives & Adverbs",
+   "target": "morno",
+   "english": "warm",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 892,
+   "category": "Adjectives & Adverbs",
+   "target": "fresco",
+   "english": "cool",
+   "altEnglish": [
+    "fresh"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 893,
+   "category": "Adjectives & Adverbs",
+   "target": "molhado",
+   "english": "wet",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 894,
+   "category": "Adjectives & Adverbs",
+   "target": "seco",
+   "english": "dry",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 895,
+   "category": "Adjectives & Adverbs",
+   "target": "limpo",
+   "english": "clean",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 896,
+   "category": "Adjectives & Adverbs",
+   "target": "sujo",
+   "english": "dirty",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 897,
+   "category": "Adjectives & Adverbs",
+   "target": "barulhento",
+   "english": "loud",
+   "altEnglish": [
+    "noisy"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 898,
+   "category": "Adjectives & Adverbs",
+   "target": "silencioso",
+   "english": "quiet",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 899,
+   "category": "Adjectives & Adverbs",
+   "target": "leve",
+   "english": "light",
+   "altEnglish": [
+    "easy"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 900,
+   "category": "Adjectives & Adverbs",
+   "target": "pesado",
+   "english": "heavy",
+   "altEnglish": [
+    "difficult"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 901,
+   "category": "Adjectives & Adverbs",
+   "target": "fácil",
+   "english": "easy",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 902,
+   "category": "Adjectives & Adverbs",
+   "target": "difícil",
+   "english": "difficult",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 903,
+   "category": "Adjectives & Adverbs",
+   "target": "caro",
+   "english": "expensive",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 904,
+   "category": "Adjectives & Adverbs",
+   "target": "barato",
+   "english": "cheap",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 905,
+   "category": "Adjectives & Adverbs",
+   "target": "acessível",
+   "english": "affordable",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 906,
+   "category": "Adjectives & Adverbs",
+   "target": "rico",
+   "english": "rich",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 907,
+   "category": "Adjectives & Adverbs",
+   "target": "pobre",
+   "english": "poor",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 908,
+   "category": "Adjectives & Adverbs",
+   "target": "engraçado",
+   "english": "funny",
+   "altEnglish": [
+    "amusing"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 909,
+   "category": "Adjectives & Adverbs",
+   "target": "interessante",
+   "english": "interesting",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 910,
+   "category": "Adjectives & Adverbs",
+   "target": "aborrecido",
+   "english": "boring",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 911,
+   "category": "Adjectives & Adverbs",
+   "target": "importante",
+   "english": "important",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 912,
+   "category": "Adjectives & Adverbs",
+   "target": "certo",
+   "english": "correct",
+   "altEnglish": [
+    "right"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 913,
+   "category": "Adjectives & Adverbs",
+   "target": "errado",
+   "english": "wrong",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 914,
+   "category": "Adjectives & Adverbs",
+   "target": "livre",
+   "english": "free",
+   "altEnglish": [
+    "vacant"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 915,
+   "category": "Adjectives & Adverbs",
+   "target": "ocupado",
+   "english": "occupied",
+   "altEnglish": [
+    "busy"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 916,
+   "category": "Adjectives & Adverbs",
+   "target": "aberto",
+   "english": "open",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 917,
+   "category": "Adjectives & Adverbs",
+   "target": "fechado",
+   "english": "closed",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 918,
+   "category": "Adjectives & Adverbs",
+   "target": "acabado",
+   "english": "finished",
+   "altEnglish": [
+    "done"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 919,
+   "category": "Adjectives & Adverbs",
+   "target": "preparado",
+   "english": "prepared",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 920,
+   "category": "Adjectives & Adverbs",
+   "target": "cansado",
+   "english": "tired",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 921,
+   "category": "Adjectives & Adverbs",
+   "target": "com fome",
+   "english": "hungry",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 922,
+   "category": "Adjectives & Adverbs",
+   "target": "com sede",
+   "english": "thirsty",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 923,
+   "category": "Adjectives & Adverbs",
+   "target": "doente",
+   "english": "sick",
+   "altEnglish": [
+    "ill"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 924,
+   "category": "Adjectives & Adverbs",
+   "target": "saudável",
+   "english": "healthy",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 925,
+   "category": "Adjectives & Adverbs",
+   "target": "feliz",
+   "english": "happy",
+   "altEnglish": [
+    "glad"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 926,
+   "category": "Adjectives & Adverbs",
+   "target": "triste",
+   "english": "sad",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 927,
+   "category": "Adjectives & Adverbs",
+   "target": "contente",
+   "english": "glad",
+   "altEnglish": [
+    "happy"
+   ],
+   "difficulty": 3
+  },
+  {
+   "id": 928,
+   "category": "Adjectives & Adverbs",
+   "target": "zangado",
+   "english": "angry",
+   "altEnglish": [
+    "annoyed"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 929,
+   "category": "Adjectives & Adverbs",
+   "target": "nervoso",
+   "english": "nervous",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 930,
+   "category": "Adjectives & Adverbs",
+   "target": "calmo",
+   "english": "calm",
+   "altEnglish": [
+    "quiet"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 931,
+   "category": "Adjectives & Adverbs",
+   "target": "forte",
+   "english": "strong",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 932,
+   "category": "Adjectives & Adverbs",
+   "target": "fraco",
+   "english": "weak",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 933,
+   "category": "Adjectives & Adverbs",
+   "target": "rápido",
+   "english": "fast",
+   "altEnglish": [
+    "quick"
+   ],
+   "difficulty": 1
+  },
+  {
+   "id": 934,
+   "category": "Adjectives & Adverbs",
+   "target": "lento",
+   "english": "slow",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 935,
+   "category": "Adjectives & Adverbs",
+   "target": "comprido",
+   "english": "long",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 936,
+   "category": "Adjectives & Adverbs",
+   "target": "curto",
+   "english": "short",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 937,
+   "category": "Adjectives & Adverbs",
+   "target": "alto",
+   "english": "high",
+   "altEnglish": [
+    "tall"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 938,
+   "category": "Adjectives & Adverbs",
+   "target": "baixo",
+   "english": "low",
+   "altEnglish": [
+    "short"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 939,
+   "category": "Adjectives & Adverbs",
+   "target": "largo",
+   "english": "wide",
+   "altEnglish": [
+    "broad"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 940,
+   "category": "Adjectives & Adverbs",
+   "target": "estreito",
+   "english": "narrow",
+   "altEnglish": [
+    "tight"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 941,
+   "category": "Adjectives & Adverbs",
+   "target": "grosso",
+   "english": "thick",
+   "altEnglish": [
+    "fat"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 942,
+   "category": "Adjectives & Adverbs",
+   "target": "fino",
+   "english": "thin",
+   "altEnglish": [
+    "fine"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 943,
+   "category": "Adjectives & Adverbs",
+   "target": "cheio",
+   "english": "full",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 944,
+   "category": "Adjectives & Adverbs",
+   "target": "vazio",
+   "english": "empty",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 945,
+   "category": "Adjectives & Adverbs",
+   "target": "seguro",
+   "english": "safe",
+   "altEnglish": [
+    "sure"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 946,
+   "category": "Adjectives & Adverbs",
+   "target": "possível",
+   "english": "possible",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 947,
+   "category": "Adjectives & Adverbs",
+   "target": "necessário",
+   "english": "necessary",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 948,
+   "category": "Adjectives & Adverbs",
+   "target": "ótimo",
+   "english": "great",
+   "altEnglish": [
+    "excellent"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 949,
+   "category": "Adjectives & Adverbs",
+   "target": "delicioso",
+   "english": "tasty",
+   "altEnglish": [
+    "delicious"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 950,
+   "category": "Adjectives & Adverbs",
+   "target": "conhecido",
+   "english": "known",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 951,
+   "category": "Adjectives & Adverbs",
+   "target": "popular",
+   "english": "popular",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 952,
+   "category": "Adjectives & Adverbs",
+   "target": "confortável",
+   "english": "comfortable",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 953,
+   "category": "Adjectives & Adverbs",
+   "target": "prático",
+   "english": "practical",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 954,
+   "category": "Adjectives & Adverbs",
+   "target": "moderno",
+   "english": "modern",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 955,
+   "category": "Adjectives & Adverbs",
+   "target": "aconchegante",
+   "english": "cosy",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 956,
+   "category": "Adjectives & Adverbs",
+   "target": "satisfeito",
+   "english": "satisfied",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 957,
+   "category": "Adjectives & Adverbs",
+   "target": "diferente",
+   "english": "different",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 958,
+   "category": "Adjectives & Adverbs",
+   "target": "alemão",
+   "english": "German",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 959,
+   "category": "Adjectives & Adverbs",
+   "target": "português",
+   "english": "Portuguese",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 960,
+   "category": "Adjectives & Adverbs",
+   "target": "colorido",
+   "english": "colourful",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 961,
+   "category": "Adjectives & Adverbs",
+   "target": "vermelho",
+   "english": "red",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 962,
+   "category": "Adjectives & Adverbs",
+   "target": "azul",
+   "english": "blue",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 963,
+   "category": "Adjectives & Adverbs",
+   "target": "verde",
+   "english": "green",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 964,
+   "category": "Adjectives & Adverbs",
+   "target": "amarelo",
+   "english": "yellow",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 965,
+   "category": "Adjectives & Adverbs",
+   "target": "branco",
+   "english": "white",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 966,
+   "category": "Adjectives & Adverbs",
+   "target": "preto",
+   "english": "black",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 967,
+   "category": "Adjectives & Adverbs",
+   "target": "castanho",
+   "english": "brown",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 968,
+   "category": "Adjectives & Adverbs",
+   "target": "cinzento",
+   "english": "grey",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 969,
+   "category": "Adjectives & Adverbs",
+   "target": "cor-de-rosa",
+   "english": "pink",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 970,
+   "category": "Adjectives & Adverbs",
+   "target": "cor-de-laranja",
+   "english": "orange",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 971,
+   "category": "Adjectives & Adverbs",
+   "target": "simpático",
+   "english": "nice",
+   "altEnglish": [
+    "friendly"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 972,
+   "category": "Adjectives & Adverbs",
+   "target": "maravilhoso",
+   "english": "wonderful",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 973,
+   "category": "Verbs",
+   "target": "conseguir",
+   "english": "to manage",
+   "altEnglish": [
+    "to succeed"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 974,
+   "category": "Verbs",
+   "target": "cuidar",
+   "english": "to take care",
+   "altEnglish": [
+    "to look after"
+   ],
+   "difficulty": 3
+  },
+  {
+   "id": 975,
+   "category": "Verbs",
+   "target": "lembrar-se",
+   "english": "to remember",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 976,
+   "category": "Verbs",
+   "target": "aceitar",
+   "english": "to accept",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 977,
+   "category": "Verbs",
+   "target": "reparar",
+   "english": "to repair",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 978,
+   "category": "Verbs",
+   "target": "discutir",
+   "english": "to argue",
+   "altEnglish": [
+    "to discuss"
+   ],
+   "difficulty": 3
+  },
+  {
+   "id": 979,
+   "category": "Verbs",
+   "target": "recusar",
+   "english": "to refuse",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 980,
+   "category": "Verbs",
+   "target": "mudar",
+   "english": "to move (house)",
+   "altEnglish": [
+    "to change"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 981,
+   "category": "Time & Calendar",
+   "target": "antigamente",
+   "english": "in the past",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 982,
+   "category": "Food & Drink",
+   "target": "o pastel de nata",
+   "english": "custard tart",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 983,
+   "category": "Food & Drink",
+   "target": "a bifana",
+   "english": "pork sandwich",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 984,
+   "category": "Food & Drink",
+   "target": "a sardinha",
+   "english": "sardine",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 985,
+   "category": "Food & Drink",
+   "target": "o polvo",
+   "english": "octopus",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 986,
+   "category": "Home",
+   "target": "a sala de jantar",
+   "english": "dining room",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 987,
+   "category": "Transport & Places",
+   "target": "o barco",
+   "english": "boat",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 988,
+   "category": "Adjectives & Adverbs",
+   "target": "lindo",
+   "english": "pretty",
+   "altEnglish": [
+    "lovely"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 989,
+   "category": "Adjectives & Adverbs",
+   "target": "estranho",
+   "english": "strange",
+   "altEnglish": [
+    "odd"
+   ],
+   "difficulty": 2
+  },
+  {
+   "id": 990,
+   "category": "Numbers",
+   "target": "setenta",
+   "english": "seventy",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 991,
+   "category": "Numbers",
+   "target": "oitenta",
+   "english": "eighty",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 992,
+   "category": "Numbers",
+   "target": "noventa",
+   "english": "ninety",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 993,
+   "category": "Numbers",
+   "target": "milhão",
+   "english": "million",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 994,
+   "category": "Weather & Nature",
+   "target": "o arco-íris",
+   "english": "rainbow",
+   "altEnglish": [],
+   "difficulty": 3
+  },
+  {
+   "id": 995,
+   "category": "Family & People",
+   "target": "os avós",
+   "english": "grandparents",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 996,
+   "category": "Body & Health",
+   "target": "a unha",
+   "english": "nail",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 997,
+   "category": "Body & Health",
+   "target": "o rosto",
+   "english": "face",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 998,
+   "category": "Family & People",
+   "target": "a festa",
+   "english": "party",
+   "altEnglish": [],
+   "difficulty": 1
+  },
+  {
+   "id": 999,
+   "category": "Family & People",
+   "target": "o casamento",
+   "english": "wedding",
+   "altEnglish": [],
+   "difficulty": 2
+  },
+  {
+   "id": 1000,
+   "category": "Family & People",
+   "target": "o presente",
+   "english": "gift",
+   "altEnglish": [
+    "present"
+   ],
+   "difficulty": 1
+  }
+ ]
+}
