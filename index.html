@@ -435,20 +435,21 @@ function showQuestion() {
 // Feedback tones. Built as short WAV files and played through the media channel,
 // so they are heard on iPhone (Web Audio is muted by the silent switch there).
 // Correct: two rising tones. Wrong (also "don't know"): two falling tones.
-const FEEDBACK_SOUNDS = {};
+const FEEDBACK_AUDIO = {};
 
-function toneSamples(list, rate) {
-  const total = Math.max(...list.map(t => t[1] + t[2])) + 0.05;
+// notes: {f0, f1 (pitch glide end), start, dur, decay, vol, harm}; bell-like decay, a little 2nd harmonic
+function synthNotes(notes, rate, total) {
   const out = new Float32Array(Math.floor(total * rate));
-  for (const [freq, start, dur, vol, shape] of list) {
-    const s0 = Math.floor(start * rate);
-    const len = Math.floor(dur * rate);
+  for (const n of notes) {
+    const s0 = Math.floor(n.start * rate);
+    const len = Math.floor(n.dur * rate);
+    let phase = 0;
     for (let i = 0; i < len && s0 + i < out.length; i++) {
       const t = i / rate;
-      const env = Math.min(1, t / 0.02) * Math.pow(1 - i / len, 2);
-      const phase = 2 * Math.PI * freq * t;
-      const wave = shape === 'sine' ? Math.sin(phase) : (2 / Math.PI) * Math.asin(Math.sin(phase));
-      out[s0 + i] += wave * env * vol;
+      const f = n.f0 + (n.f1 - n.f0) * Math.min(1, t / n.dur);
+      phase += 2 * Math.PI * f / rate;
+      const env = Math.min(1, t / 0.005) * Math.exp(-t * n.decay);
+      out[s0 + i] += (Math.sin(phase) + (n.harm || 0) * Math.sin(2 * phase)) * env * n.vol;
     }
   }
   return out;
@@ -472,24 +473,50 @@ function toWavUri(samples, rate) {
   return 'data:audio/wav;base64,' + btoa(bin);
 }
 
+function feedbackAudio(key) {
+  if (!FEEDBACK_AUDIO[key]) {
+    const rate = 22050;
+    const notes = key === 'ok'
+      ? [ // a single bell ring: bright fundamental with a softer higher partial that rings out
+          { f0: 1319, f1: 1319, start: 0.00, dur: 0.9, decay: 3.5, vol: 0.8, harm: 0.25 },
+          { f0: 2093, f1: 2093, start: 0.00, dur: 0.6, decay: 5, vol: 0.25, harm: 0 }]
+      : [ // soft falling "bonk" (the wrong-answer sound you liked), let to ring a little longer so it is louder
+          { f0: 480, f1: 275, start: 0.00, dur: 0.40, decay: 1.5, vol: 0.8, harm: 0.5 }];
+    // Scale so the loudest point is just below full scale: as loud as possible without clipping.
+    const samples = synthNotes(notes, rate, 1.0);
+    let peak = 0;
+    for (const x of samples) peak = Math.max(peak, Math.abs(x));
+    if (peak > 0) for (let i = 0; i < samples.length; i++) samples[i] *= 0.95 / peak;
+    const a = new Audio(toWavUri(samples, rate));
+    a.preload = 'auto';
+    FEEDBACK_AUDIO[key] = a;
+  }
+  return FEEDBACK_AUDIO[key];
+}
+
+// Plays immediately on the tap; the sound is loaded at startup so there is no delay.
+// iPhone only allows speech after a tap. A silent utterance during the tap unlocks it for the delayed word.
+function unlockSpeech() {
+  try {
+    if (!('speechSynthesis' in window)) return;
+    const u = new SpeechSynthesisUtterance(' ');
+    u.volume = 0;
+    u.lang = 'de-AT';
+    speechSynthesis.speak(u);
+  } catch (e) {}
+}
 function playFeedback(ok) {
   try {
-    const key = ok ? 'ok' : 'bad';
-    if (!FEEDBACK_SOUNDS[key]) {
-      const rate = 22050;
-      const list = ok
-        ? [[880, 0, 0.14, 0.35, 'sine'], [1320, 0.13, 0.2, 0.35, 'sine']]
-        : [[220, 0, 0.16, 0.4, 'tri'], [165, 0.15, 0.22, 0.4, 'tri']];
-      FEEDBACK_SOUNDS[key] = toWavUri(toneSamples(list, rate), rate);
-    }
-    // iOS 16.4+: let audio play even when the silent switch is on.
     if (navigator.audioSession) navigator.audioSession.type = 'playback';
-    new Audio(FEEDBACK_SOUNDS[key]).play().catch(() => {});
+    const a = feedbackAudio(ok ? 'ok' : 'bad');
+    a.currentTime = 0;
+    a.play().catch(() => {});
   } catch (e) {}
 }
 
 function submitAnswer(pass = false) {
   if (!session || session.answered) return;
+  unlockSpeech();
   const input = $('answer');
   if (!pass && input.value.trim() === '') return;
 
@@ -512,7 +539,7 @@ function submitAnswer(pass = false) {
   $('check').disabled = true;
   $('pass').disabled = true;
   showFeedback(w, res, after !== before ? after : null);
-  speakTarget(w.target);
+  session.timer = setTimeout(() => speakTarget(w.target), 1000);
 }
 
 function showFeedback(w, res, movedTo) {
@@ -551,6 +578,8 @@ function showFeedback(w, res, movedTo) {
 
 function nextQuestion() {
   if (!session || !session.answered) return;
+  unlockSpeech();
+  clearTimeout(session.timer);
   session.i++;
   if (session.i >= session.queue.length) showSummary();
   else showQuestion();
@@ -705,6 +734,8 @@ function confirmReset() {
 /* ---------- Setup ---------- */
 
 function bindEvents() {
+  // First tap anywhere unlocks speech on iPhone.
+  document.addEventListener('click', unlockSpeech, { capture: true, once: true });
   document.querySelectorAll('.nav button').forEach(b => b.addEventListener('click', () => showTab(b.dataset.nav)));
 
   document.querySelectorAll('[data-dir]').forEach(b => b.addEventListener('click', () => {
@@ -781,6 +812,9 @@ async function init() {
     return;
   }
 
+  feedbackAudio('ok');
+  feedbackAudio('bad');
+  feedbackAudio('bad');
   loadProgress();
   bindEvents();
   renderAll();
